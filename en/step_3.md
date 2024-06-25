@@ -20,7 +20,7 @@ You are going to draw two different images several times. This will teach your m
 
 --- task ---
 + Repeat those steps until you have **at least eight examples** of bananas - try to draw them in different ways so there is a variety.
-![bucket filled with 8 background examples](images/8-background.png)
+![bucket filled with 8 background examples](images/8-banana.png)
 --- /task ---
 
 --- task ---
@@ -30,7 +30,7 @@ You are going to draw two different images several times. This will teach your m
 --- task ---
 + Click on **Draw** inside the box for the new `apple` label, and draw a picture of an apple. 
 
-+ Repeat until you have drawn **at least eight examples**.
++ Repeat until you have drawn **at least eight examples** of apples.
 --- /task ---
 
 
