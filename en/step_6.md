@@ -4,14 +4,14 @@ The cat sprite will announce what it thinks you have drawn.
 
 --- task ---
 
-+ Click on the cat sprite. Add some code so that the cat tells you
++ Click on the cat sprite. Add some code so that the cat tells you what it thinks you drew.
 ![Add code to say when broadcast detected, say what the result was](images/basic-cat.png)
 
 --- /task ---
 
 
 --- task ---
-+ Click on the canvas sprite, then click on the costumes tab.
++ Click on the canvas sprite, then click on the **costumes tab**.
 
 + Select the **paint brush** tool and change the **fill** colour to black. 
 ![Paint brush tool selected and black fill colour](images/black-brush.png)
