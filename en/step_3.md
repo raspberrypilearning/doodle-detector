@@ -1,35 +1,36 @@
 ## Draw some examples
 
-You are going to draw two different images several times. This will help your machine learning model to tell the difference between what you are drawing.
+You are going to draw two different images several times. This will teach your machine learning model to tell the difference between the two drawings. We have chosen banana and apple, but you can choose other things to draw if you prefer.
 
 --- task ---
-+ Click the **+ Add example** button in **background noise**.
-
-+ Click on the microphone but don't say anything, to record 2 seconds of background noise.
-![Arrow pointing to microphone button](images/record-button.png)
-
-+ Click the **Add** button to save your recording.
++ Click on **+Add new label** on the top right of the screen and add a label called `banana`. 
 --- /task ---
 
 --- task ---
-+ Repeat those steps until you have **at least eight examples** of background noise.
++ Click the **Draw** button in **banana**.
+--- /task ---
+
+--- task ---
++ Draw a picture of a banana in the box
+
+![A hand drawn picture of a banana](images/draw-banana.png)
+
++ Click the **Add** button to save your drawing.
+--- /task ---
+
+--- task ---
++ Repeat those steps until you have **at least eight examples** of bananas - try to draw them in different ways so there is a variety.
 ![bucket filled with 8 background examples](images/8-background.png)
 --- /task ---
 
-Invent two alien words — a word that means "left" and a word that means "right".
-
-Now you will record eight examples of each word so that your machine learning model can learn to recognise them.
-
 --- task ---
-+ Click on **+ Add new label** on the top right of the screen and add a label called `left`.
++ Click on **+ Add new label** on the top right of the screen and add a label called `apple`.
 --- /task ---
 
 --- task ---
-+ Click on **+ Add example** inside the box for the new `left` label, and record yourself saying your alien word for "left". 
++ Click on **Draw** inside the box for the new `apple` label, and draw a picture of an apple. 
 
-+ Repeat until you have recorded **at least eight examples**.
++ Repeat until you have drawn **at least eight examples**.
 --- /task ---
 
---- task ---
-+ **+ Add new label** to create another label called `right` and record eight examples of your alien word for "right". 
---- /task ---
+
