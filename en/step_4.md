@@ -17,18 +17,15 @@ Once the training has finished, you can test how well your model recognises draw
 
 --- task ---
 
-+ Click the **Test by drawing** button, then draw a picture of a banana. 
++ Click the **Test by drawing** button, then draw a picture of an apple. 
 
 Your machine learning model will display what it thinks you drew.
-![Arrow pointing to the test by drawingtest button](images/test-your-model.png)
+![Arrow pointing to the test by drawing button](images/test-your-model.png)
 
 --- /task ---
 
 --- task ---
-+ Test whether the model recognises a drawing of an apple as well.
-
-![Arrow pointing to the test by drawingtest button](images/test-your-model.png)
-
++ Test whether the model recognises a drawing of a banana as well.
 --- /task ---
 
 If you are not happy with how the model is working, go back to the **Train** page and add more examples, then train your model again.

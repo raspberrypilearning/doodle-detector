@@ -1,6 +1,6 @@
 ## Create a canvas
 
-Now that your model can distinguish between words, you can use it in a Scratch program to control an alien.
+Now that your model can distinguish between drawings, you can use it in a Scratch program.
 
 --- task ---
 + Click on the **< Back to project** link.
@@ -13,13 +13,7 @@ Now that your model can distinguish between words, you can use it in a Scratch p
 
 --- /task ---
 
---- task ---
-+ Click on **Project templates** at the top and select the 'Alien language' project to load the alien sprite which has some code already added to it. 
-
-![Alien language project](images/alien-language.png)
---- /task ---
-
-Machine Learning for Kids has added some special blocks to Scratch to allow you to use the model you just trained. This project template also contains special 'walk left' and 'walk right' blocks inside "My Blocks". Find both at the bottom of the blocks list.
+Machine Learning for Kids has added some special blocks to Scratch to allow you to use the model you just trained. Find them at the bottom of the blocks list.
 
 ![New blocks](images/new-blocks.png)
 
