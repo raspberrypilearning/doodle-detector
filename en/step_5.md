@@ -1,4 +1,4 @@
-## Control the alien
+## Create a canvas
 
 Now that your model can distinguish between words, you can use it in a Scratch program to control an alien.
 
