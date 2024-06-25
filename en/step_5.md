@@ -19,17 +19,33 @@ Machine Learning for Kids has added some special blocks to Scratch to allow you 
 
 --- task ---
 
-+ Make sure you have the **Alien** sprite selected, then click on the **Code** tab and add this code. (Keep the code that is already there!)
-![Add code to control the alien](images/control-alien-blocks.png)
++ Create a new sprite using the 'Paint' option. Name your sprite 'Canvas'
+![Add a new sprite using paint, and name it canvas](images/new-sprite.png)
 
 --- /task ---
 
 --- task ---
-+ Click the **green flag** and say your alien words for "left" and "right". Check that the alien moves in the way you expected. 
++ Click the purple **Convert to bitmap** option at the bottom, underneath the drawing area.
+--- /task ---
+
+--- task ---
++ Select the **paint brush** tool and change the **fill** colour to black. 
+
+![Paint brush tool selected and black fill colour](images/black-brush.png)
 
 --- /task ---
 
+--- task ---
++ Click on the **Code tab** for the canvas sprite and create two **variables** called `result` and `confidence`.
 
+![Two new variables](images/create-variable.png)
 
+--- /task ---
 
+--- task ---
++ Drag in the correct blocks to set the value of these variables when the space bar is clicked. Create a **broadcast** called `detected` and broadcast it once the variables are set.
+
+![Set variables when space clicked](images/canvas-sprite.png)
+
+--- /task ---
 

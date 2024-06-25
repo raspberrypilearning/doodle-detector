@@ -1,7 +1,8 @@
-## You've completed the project 🎉
+## Challenge
 
-If you are following the [Machine Learning with Scratch](https://projects.raspberrypi.org/en/pathways/scratch-machine-learning) pathway, you can move on to the [xxxx](https://projects.raspberrypi.org/en/projects/xxx) project. In this project, you will xxxxx
+--- challenge ---
+--- task ---
+**Move up and down**: Go back to your model and add two more labels for "up" and "down", then modify your Scratch code so that you can move the alien in all four directions.
+--- /task ---
 
-
-
-
+--- /challenge ---

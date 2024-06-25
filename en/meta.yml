@@ -11,6 +11,7 @@ steps:
   - title: Draw some examples
   - title: Train the model
   - title: Create a canvas
+  - title: What was it?
   - title: Challenge
   - title: What next?
 
