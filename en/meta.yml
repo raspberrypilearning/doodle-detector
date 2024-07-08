@@ -6,7 +6,7 @@ listed: false
 copyedit: false
 last_tested: "2024-06-25"
 steps:
-  - title: Introduction
+  - title: What you will make
   - title: Set up the project
   - title: Draw some examples
   - title: Train the model
