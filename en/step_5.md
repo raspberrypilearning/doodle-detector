@@ -19,7 +19,7 @@ Machine Learning for Kids has added some special blocks to Scratch to allow you 
 
 --- task ---
 
-+ Create a new sprite using the 'Paint' option. Name your sprite 'Canvas'
++ Create a new sprite using the 'Paint' option. Name your sprite 'Canvas'.
 ![Add a new sprite using paint, and name it canvas](images/new-sprite.png)
 
 --- /task ---
