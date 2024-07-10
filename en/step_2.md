@@ -3,7 +3,7 @@
 --- task ---
 + Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} in a web browser. 
 
-+ Click on **Get Started**
++ Click on **Get started**.
 
 + Click on **Try it now**.
 --- /task ---
@@ -13,10 +13,10 @@
 
 + Click on the **+ Add a new project** button.
 
-+ Name your project 'Doodle detector' and set it to learn to recognise **images**, and store data **in your web browser**. Then click on **Create**.
++ Name your project `Doodle detector` and set it to learn to recognise **images**, and store data **in your web browser**. Then click on **Create**.
 ![Creating a project](images/create-project.png)
 
-+ You should now see 'Doodle Detector' in the projects list. Click on the project.
++ You should now see 'Doodle detector' in the projects list. Click on the project.
 ![Project list with doodle detector listed](images/projects-list.png)
 --- /task ---
 
