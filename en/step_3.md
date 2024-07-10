@@ -1,9 +1,9 @@
 ## Draw some examples
 
-You are going to draw two different images several times. This will teach your machine learning model to tell the difference between the two drawings. We have chosen banana and apple, but you can choose other things to draw if you prefer.
+You are going to draw two different images several times. This will teach your machine learning model to tell the difference between the two things you will draw. We have chosen a banana and an apple, but you can choose other things to draw if you prefer.
 
 --- task ---
-+ Click on **+Add new label** on the top right of the screen and add a label called `banana`. 
++ Click on **+ Add new label** on the top right of the screen and add a label called `banana`. 
 --- /task ---
 
 --- task ---
@@ -11,7 +11,7 @@ You are going to draw two different images several times. This will teach your m
 --- /task ---
 
 --- task ---
-+ Draw a picture of a banana in the box
++ Draw a picture of a banana in the box.
 
 ![A hand drawn picture of a banana](images/draw-banana.png)
 
@@ -19,8 +19,8 @@ You are going to draw two different images several times. This will teach your m
 --- /task ---
 
 --- task ---
-+ Repeat those steps until you have **at least eight examples** of bananas - try to draw them in different ways so there is a variety.
-![bucket filled with 8 background examples](images/8-banana.png)
++ Repeat those steps until you have **at least eight examples** of bananas. Try to draw them in different ways so there is a variety.
+![Bucket filled with 8 background examples](images/8-banana.png)
 --- /task ---
 
 --- task ---
