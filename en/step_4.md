@@ -19,7 +19,7 @@ Once the training has finished, you can test how well your model recognises draw
 
 + Click the **Test by drawing** button, then draw a picture of an apple. 
 
-Your machine learning model will display what it thinks you drew.
+Your machine learning model will display its prediction for what you drew.
 ![Arrow pointing to the test by drawing button](images/test-your-model.png)
 
 --- /task ---
