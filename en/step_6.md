@@ -1,10 +1,10 @@
 ## What was it?
 
-The cat sprite will announce what it thinks you have drawn.
+The cat sprite will announce what it predicts you have drawn.
 
 --- task ---
 
-+ Click on the cat sprite. Add some code so that the cat tells you what it thinks you drew.
++ Click on the cat sprite. Add some code so that the cat tells you what it predicts you drew.
 ![Add code to say when broadcast detected, say what the result was](images/basic-cat.png)
 
 --- /task ---
@@ -19,7 +19,7 @@ The cat sprite will announce what it thinks you have drawn.
 --- /task ---
 
 --- task ---
-+ Use the paint brush to draw a large apple. When you are finished, press the space bar and see what the cat thinks you drew. 
++ Use the paint brush to draw a large apple. When you are finished, press the space bar and see what the cat predicts you drew. 
 
 ![Apple drawn on canvas, cat reports it's an apple](images/its-an-apple.png)
 
