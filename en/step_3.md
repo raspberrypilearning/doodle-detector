@@ -20,7 +20,7 @@ You are going to draw two different images several times. This will teach your m
 
 --- task ---
 + Repeat those steps until you have **at least eight examples** of bananas. Try to draw them in different ways so there is a variety.
-![Bucket filled with 8 background examples](images/8-banana.png)
+![Bucket filled with 8 examples of basic hand drawn bananas](images/8-banana.png)
 --- /task ---
 
 --- task ---

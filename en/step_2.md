@@ -22,7 +22,7 @@
 
 --- task ---
 + Click on the **Train** button.
-![Project main menu](images/project-train.png)
+![Project main menu with arrow pointing to Train button](images/project-train.png)
 
 --- /task ---
 

@@ -5,7 +5,11 @@ The cat sprite will announce what it predicts you have drawn.
 --- task ---
 
 + Click on the cat sprite. Add some code so that the cat tells you what it predicts you drew.
-![Add code to say when broadcast detected, say what the result was](images/basic-cat.png)
+
+```blocks3
+when I receive [detected v]
+think (join [I predict it's a...] (result)) for (2) seconds
+```
 
 --- /task ---
 
@@ -28,7 +32,13 @@ The cat sprite will announce what it predicts you have drawn.
 --- task ---
 + You can add more code so that the cat sprite will only tell you the result if the confidence level is over 70. 
 
-![Add code to only report the result if confidence over 70](images/cat-sprite.png)
+```blocks3
+when I receive [detected v]
+if <(confidence)>(70)> then
+think (join [I predict it's a...] (result)) for (2) seconds
+else
+think [I don't know what that is] for (2) seconds
+```
 --- /task ---
 
 --- task ---
