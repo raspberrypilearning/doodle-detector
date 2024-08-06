@@ -14,9 +14,9 @@ steps:
   - title: Train the model
   - title: Create a canvas
   - title: What was it?
-  - title: Challenge
     completion:
     - internal
+  - title: Challenge
   - title: What can you do now?
     completion:
     - external
