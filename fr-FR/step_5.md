@@ -34,7 +34,8 @@ Machine Learning for Kids has added some special blocks to Scratch to allow you 
 \--- task ---
 
 - Click the purple **Convert to bitmap** button at the bottom, underneath the drawing area.
-  \--- /task ---
+
+\--- /task ---
 
 \--- task ---
 
