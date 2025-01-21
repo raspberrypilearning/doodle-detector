@@ -13,7 +13,8 @@
 - Click on **Get started**.
 
 - Click on **Try it now**.
-  \--- /task ---
+
+\--- /task ---
 
 \--- task ---
 
@@ -26,7 +27,8 @@
 
 - You should now see 'Doodle detector' in the projects list. Click on the project.
   ![Project list with doodle detector listed](images/projects-list.png)
-  \--- /task ---
+
+\--- /task ---
 
 \--- task ---
 
