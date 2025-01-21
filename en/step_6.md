@@ -19,8 +19,8 @@ think (join [I predict it's a...] (result)) for (2) seconds
 
 --- /task ---
 
-
 --- task ---
+
 + Click on the canvas sprite, then click on the **costumes tab**.
 
 + Select the **paint brush** tool and change the **fill** colour to black. 
@@ -29,6 +29,7 @@ think (join [I predict it's a...] (result)) for (2) seconds
 --- /task ---
 
 --- task ---
+
 + Use the paint brush to draw a large apple. When you are finished, press the space bar and see what the cat predicts you drew. 
 
 ![Apple drawn on canvas, cat reports it's an apple](images/its-an-apple.png)
@@ -36,6 +37,7 @@ think (join [I predict it's a...] (result)) for (2) seconds
 --- /task ---
 
 --- task ---
+
 + You can add more code so that the cat sprite will only tell you the result if the confidence level is over 70. 
 
 ```blocks3
@@ -48,6 +50,7 @@ think [I don't know what that is] for (2) seconds
 --- /task ---
 
 --- task ---
+
 + Click on the canvas and this time draw something completely different. See whether the cat thinks you drew an apple, a banana, or isn't sure.
 
 ![X drawn on the canvas, cat reports not knowing what was drawn](images/not-confident.png)
