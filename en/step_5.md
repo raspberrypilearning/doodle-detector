@@ -10,6 +10,7 @@
 Now that your model can distinguish between drawings, you can use it in a Scratch program.
 
 --- task ---
+
 + Click on the **< Back to project** link.
 
 + Click on **Make**.
@@ -32,11 +33,13 @@ Machine Learning for Kids has added some special blocks to Scratch to allow you 
 --- /task ---
 
 --- task ---
+
 + Click the purple **Convert to bitmap** button at the bottom, underneath the drawing area.
+
 --- /task ---
 
-
 --- task ---
+
 + Click on the **Code tab** for the canvas sprite and create two **variables** called `result` and `confidence`.
 
 ![Create two new variables called confidence and result](images/create-variable.png)
