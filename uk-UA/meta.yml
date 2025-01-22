@@ -2,7 +2,7 @@ title: Doodle detector
 hero_image: images/banner.png
 description: Train the computer to recognise what you have drawn
 version: 1
-listed: false
+listed: true
 copyedit: false
 last_tested: "2024-06-25"
 steps:
@@ -22,10 +22,9 @@ steps:
     title: What was it?
     completion:
       - internal
+      - external
   - 
     title: Challenge
     challenge: true
   - 
     title: What can you do now?
-    completion:
-      - external
