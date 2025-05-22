@@ -1,4 +1,4 @@
-## Set up the project
+## Het project opzetten
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -8,32 +8,32 @@
 
 \--- task ---
 
-- Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} in a web browser.
+- Ga naar [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} in een webbrowser.
 
-- Click on **Get started**.
+- Klik op **Begin**
 
-- Click on **Try it now**.
+- Klik op **Scratch 3**.
 
 \--- /task ---
 
 \--- task ---
 
-- Click on **Projects** in the menu bar at the top.
+- Klik op **Projecten** in de menubalk bovenaan.
 
-- Click on the **+ Add a new project** button.
+- Klik op de knop **+ Voeg een nieuw project toe**.
 
-- Name your project `Doodle detector` and set it to learn to recognise **images**, and store data **in your web browser**. Then click on **Create**.
-  ![Creating a project](images/create-project.png)
+- Name your project `Doodle detector` and set it to learn to recognise **images**, and store data **in your web browser**. Klik vervolgens op **Creëer**.
+  ![Een project maken](images/create-project-annotated.png)
 
-- You should now see 'Doodle detector' in the projects list. Click on the project.
+- You should now see 'Doodle detector' in the projects list. Klik op dit project.
   ![Project list with doodle detector listed](images/projects-list.png)
 
 \--- /task ---
 
 \--- task ---
 
-- Click on the **Train** button.
-  ![Project main menu with arrow pointing to Train button](images/project-train.png)
+- Klik op **Maak**.
+  ![Project hoofdmenu](images/project-make-annotated.png)
 
 \--- /task ---
 
