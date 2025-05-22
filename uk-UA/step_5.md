@@ -52,3 +52,4 @@ Machine Learning for Kids has added some special blocks to Scratch to allow you 
 ![Scratch code: When space key pressed, set result to recognise image (costume image) label, set confidence to recognise image (costume image) confidence, broadcast detected](images/canvas-sprite.png)
 
 \--- /task ---
+
