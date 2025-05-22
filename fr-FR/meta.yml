@@ -6,18 +6,18 @@ listed: true
 copyedit: false
 last_tested: "2024-06-25"
 steps:
-  - title: What you will make
-  - title: Set up the project
+  - title: Ce que tu vas faire
+  - title: Configurer le projet
     completion:
     - engaged
   - title: Draw some examples
-  - title: Train the model
+  - title: Entraîner le modèle
   - title: Create a canvas
   - title: What was it?
     completion:
     - internal
-  - title: Challenge
+  - title: Défi
     challenge: true
-  - title: What can you do now?
+  - title: Que peux-tu faire maintenant ?
     completion:
     - external
