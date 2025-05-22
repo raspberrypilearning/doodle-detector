@@ -37,3 +37,6 @@ Your machine learning model will display its prediction for what you drew.
 \--- /task ---
 
 If you are not happy with how the model is working, go back to the **Train** page and add more examples, then train your model again.
+
+
+
