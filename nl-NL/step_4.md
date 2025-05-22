@@ -1,4 +1,4 @@
-## Train the model
+## Train het model
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,7 +6,7 @@
   </div>
 </html>
 
-You have gathered the examples you need, now you will use these examples to train your machine learning model.
+Je moet enkele voorbeelden verzamelen om de computer te trainen.
 
 \--- task ---
 
@@ -14,7 +14,7 @@ You have gathered the examples you need, now you will use these examples to trai
 
 - Click on **Learn & Test**.
 
-- Click on the button labelled **Train new machine learning model**. This may take a few minutes to complete.
+- Click on the button labelled **Train new machine learning model**. Dit kan enkele minuten duren.
   ![Arrow pointing to button saying Train new machine learning model](images/train-new-model.png)
 
 \--- /task ---
