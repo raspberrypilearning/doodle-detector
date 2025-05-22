@@ -1,6 +1,6 @@
-result
+результат
 
-confidence
+імовірність
 
 detected
 
