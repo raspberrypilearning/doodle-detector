@@ -6,18 +6,18 @@ listed: true
 copyedit: false
 last_tested: "2024-06-25"
 steps:
-  - title: What you will make
-  - title: Set up the project
+  - title: Wat je gaat maken
+  - title: Het project opzetten
     completion:
     - engaged
   - title: Draw some examples
-  - title: Train the model
+  - title: Train het model
   - title: Create a canvas
   - title: What was it?
     completion:
     - internal
-  - title: Challenge
+  - title: Uitdaging
     challenge: true
-  - title: What can you do now?
+  - title: Wat kun je verder nog doen?
     completion:
     - external
