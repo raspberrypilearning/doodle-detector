@@ -6,26 +6,18 @@ listed: true
 copyedit: false
 last_tested: "2024-06-25"
 steps:
-  - 
-    title: What you will make
-  - 
-    title: Set up the project
+  - title: What you will make
+  - title: Set up the project
     completion:
-      - engaged
-  - 
-    title: Draw some examples
-  - 
-    title: Train the model
-  - 
-    title: Create a canvas
-  - 
-    title: What was it?
+    - engaged
+  - title: Draw some examples
+  - title: Train the model
+  - title: Create a canvas
+  - title: What was it?
     completion:
-      - internal
-  - 
-    title: Challenge
+    - internal
+  - title: Challenge
     challenge: true
-  - 
-    title: What can you do now?
+  - title: What can you do now?
     completion:
-      - external
+    - external
