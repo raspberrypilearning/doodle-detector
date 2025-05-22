@@ -1,4 +1,4 @@
-## What you will make
+## Wat je gaat maken
 
 Train a machine learning model to recognise what you have drawn.
 
@@ -8,17 +8,17 @@ Train a machine learning model to recognise what you have drawn.
 
 ---
 
-## title: Where are my images stored?
+## title: Waar worden mijn afbeeldingen opgeslagen?
 
-- This project uses a technology called 'machine learning'. Machine learning systems are trained using a large amount of data.
-- This project does not require you to create an account or log in. For this project, the image examples you use to make the model are only stored temporarily in your browser (only on your machine).
+- Dit project maakt gebruik van een technologie genaamd 'machine learning'. Machine learning systems are trained using a large amount of data.
+- Voor dit project hoef je geen account aan te maken of in te loggen. Voor dit project worden de afbeeldingsvoorbeelden die je gebruikt om het model te maken tijdelijk opgeslagen in je browser (alleen op je machine).
 
 \--- /collapse ---
 
 ## --- collapse ---
 
-## title: No YouTube? Download the videos!
+## title: Geen YouTube? Download de video's!
 
-You can [download all the videos for this project](https://rpf.io/p/en/doodle-detector-go){:target="_blank"}.
+Je kunt [alle video's voor dit project downloaden](https://rpf.io/p/en/doodle-detector-go){:target="_blank"}.
 
 \--- /collapse ---
