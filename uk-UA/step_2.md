@@ -1,4 +1,4 @@
-## Set up the project
+## Створи проєкт
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
