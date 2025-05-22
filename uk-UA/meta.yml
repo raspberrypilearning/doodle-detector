@@ -6,18 +6,18 @@ listed: true
 copyedit: false
 last_tested: "2024-06-25"
 steps:
-  - title: What you will make
-  - title: Set up the project
+  - title: Що ти зробиш
+  - title: Створи проєкт
     completion:
     - engaged
   - title: Draw some examples
-  - title: Train the model
+  - title: Навчи модель
   - title: Create a canvas
   - title: What was it?
     completion:
     - internal
-  - title: Challenge
+  - title: Додаткове завдання
     challenge: true
-  - title: What can you do now?
+  - title: Що ти тепер вмієш?
     completion:
     - external
