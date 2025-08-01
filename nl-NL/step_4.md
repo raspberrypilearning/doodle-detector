@@ -10,12 +10,12 @@ Je moet enkele voorbeelden verzamelen om de computer te trainen.
 
 \--- task ---
 
-- Click on **Back to project** in the top left-hand corner.
+- Klik op **Terug naar project** in de linkerbovenhoek.
 
-- Click on **Learn & Test**.
+- Klik op **Leer & Test**.
 
-- Click on the button labelled **Train new machine learning model**. Dit kan enkele minuten duren.
-  ![Arrow pointing to button saying Train new machine learning model](images/train-new-model.png)
+- Klik op de knop met het label **Train nieuw machine learning model**. Dit kan enkele minuten duren.
+  ![Pijl die naar de knop wijst met de tekst Train nieuw machine learning model](images/train-new-model.png)
 
 \--- /task ---
 
