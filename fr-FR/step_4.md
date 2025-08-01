@@ -6,37 +6,37 @@
   </div>
 </html>
 
-You have gathered the examples you need, now you will use these examples to train your machine learning model.
+Tu as rassemblé les exemples dont tu as besoin, tu vas maintenant utiliser ces exemples pour entraîner ton modèle d'apprentissage automatique.
 
 \--- task ---
 
-- Click on **Back to project** in the top left-hand corner.
+- Clique sur **Revenir au projet** dans le coin supérieur gauche.
 
-- Click on **Learn & Test**.
+- Clique sur **Apprendre & Tester**.
 
-- Click on the button labelled **Train new machine learning model**. Cela peut prendre quelques minutes.
-  ![Arrow pointing to button saying Train new machine learning model](images/train-new-model.png)
+- Clique sur le bouton **Entraîner un nouveau modèle d'apprentissage machine**. Cela peut prendre quelques minutes.
+  ![Flèche pointant vers un bouton indiquant Entraîner un nouveau modèle d'apprentissage machine](images/train-new-model.png)
 
 \--- /task ---
 
-Once the training has finished, you can test how well your model recognises drawings of each type of object.
+Une fois l'entraînement terminé, tu peux tester dans quelle mesure ton modèle reconnaît les dessins de chaque type d'objet.
 
 \--- task ---
 
-- Click the **Test by drawing** button, then draw a picture of an apple.
+- Clique sur le bouton \*_Tester par dessin_, puis dessine une image d’une pomme.
 
-Your machine learning model will display its prediction for what you drew.
-![Arrow pointing to the test by drawing button](images/test-your-model.png)
+Ton modèle d’apprentissage automatique affichera sa prédiction pour ce que tu as dessiné.
+![Flèche pointant vers le bouton test par dessin](images/test-your-model.png)
 
 \--- /task ---
 
 \--- task ---
 
-- Test whether the model recognises a drawing of a banana as well.
+- Teste si le modèle reconnaît également un dessin d'une banane.
 
 \--- /task ---
 
-If you are not happy with how the model is working, go back to the **Train** page and add more examples, then train your model again.
+Si tu n'es pas satisfait·e de la façon dont le modèle fonctionne, retourne à la page **Entraîner** et ajoute d'autres exemples, puis entraîne ton modèle à nouveau.
 
 
 
