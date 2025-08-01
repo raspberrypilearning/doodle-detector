@@ -2,7 +2,7 @@
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
-    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/s3_3lmSSVu4?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/jXLQt079DNY?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
   </div>
 </html>
 
@@ -22,11 +22,11 @@
 
 - Klik op de knop **+ Voeg een nieuw project toe**.
 
-- Name your project `Doodle detector` and set it to learn to recognise **images**, and store data **in your web browser**. Klik vervolgens op **Creëer**.
+- Geef je project de naam `Doodle detector` en stel het in om **afbeeldingen** te herkennen en gegevens **in je webbrowser** op te slaan. Klik vervolgens op **Creëer**.
   ![Een project maken](images/create-project-annotated.png)
 
-- You should now see 'Doodle detector' in the projects list. Klik op dit project.
-  ![Project list with doodle detector listed](images/projects-list.png)
+- Je zou nu 'Doodle detector' in de lijst met projecten moeten zien. Klik op dit project.
+  ![Projectlijst met doodle detector vermeld](images/projects-list.png)
 
 \--- /task ---
 
