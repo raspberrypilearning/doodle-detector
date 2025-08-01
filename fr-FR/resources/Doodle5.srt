@@ -1,0 +1,40 @@
+1
+00:00:04,120 --> 00:00:08,000
+Clique de nouveau sur le sprite chat, et 
+nous allons entrer un peu plus de code.
+
+2
+00:00:08,000 --> 00:00:14,720
+Cette fois, le code indique au 
+chat d'afficher les résultats.
+
+3
+00:00:14,720 --> 00:00:16,880
+Voyons si ça marche.
+
+4
+00:00:16,880 --> 00:00:21,080
+Sélectionne le sprite du canvas et va aux costumes.
+
+5
+00:00:21,080 --> 00:00:28,800
+Avec un pinceau noir sélectionné, dessine une image.
+
+6
+00:00:28,800 --> 00:00:31,240
+Appuie sur espace pour voir les résultats.
+
+7
+00:00:31,240 --> 00:00:36,040
+Essaie aussi une banane !
+
+8
+00:00:36,040 --> 00:00:49,480
+Clique de nouveau sur le chat et ajoute du code pour vérifier 
+à quel point le modèle est confiant dans sa prédiction.
+
+9
+00:00:49,480 --> 00:00:59,240
+Maintenant dessine quelque chose qui n'est 
+pas une pomme ou une banane.
+

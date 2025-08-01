@@ -1,0 +1,17 @@
+1
+00:00:04,120 --> 00:00:10,560
+Va sur rpf.io/ml4k et clique sur « Essayer maintenant ».
+
+2
+00:00:10,560 --> 00:00:13,400
+Ajoute un nouveau projet appelé « Détecteur de gribouillages ».
+
+3
+00:00:13,400 --> 00:00:19,960
+Sélectionne « reconnaissance images » et définis
+le stockage sur « Dans votre navigateur web ».
+
+4
+00:00:19,960 --> 00:00:29,600
+Clique sur le nom du projet, puis sur « Entraîner ».
+
