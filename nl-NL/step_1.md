@@ -1,8 +1,8 @@
 ## Wat je gaat maken
 
-Train a machine learning model to recognise what you have drawn.
+Train een machine leermodel om te herkennen wat je hebt getekend.
 
-![A Scratch project where someone has drawn an apple and the Scratch cat is saying "I predict it's a...apple"](images/its-an-apple.png)
+![Een Scratch-project waarbij iemand een appel heeft getekend en de Scratch-kat zegt: "Ik voorspel dat het een... appel is"](images/its-an-apple.png)
 
 \--- collapse ---
 
@@ -10,7 +10,7 @@ Train a machine learning model to recognise what you have drawn.
 
 ## title: Waar worden mijn afbeeldingen opgeslagen?
 
-- Dit project maakt gebruik van een technologie genaamd 'machine learning'. Machine learning systems are trained using a large amount of data.
+- Dit project maakt gebruik van een technologie genaamd 'machine learning'. Machine learning-systemen worden getraind met behulp van een grote hoeveelheid data.
 - Voor dit project hoef je geen account aan te maken of in te loggen. Voor dit project worden de afbeeldingsvoorbeelden die je gebruikt om het model te maken tijdelijk opgeslagen in je browser (alleen op je machine).
 
 \--- /collapse ---
