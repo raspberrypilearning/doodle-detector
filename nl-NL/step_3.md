@@ -1,4 +1,4 @@
-## Draw some examples
+## Teken enkele voorbeelden
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,40 +6,40 @@
   </div>
 </html>
 
-You are going to draw two different images several times. This will teach your machine learning model to tell the difference between the two things you will draw. We have chosen a banana and an apple, but you can choose other things to draw if you prefer.
+Je gaat twee verschillende afbeeldingen meerdere keren tekenen. Hiermee leert jouw machine learning-model het verschil te herkennen tussen de twee dingen die jij tekent. Wij hebben een banaan en een appel gekozen, maar je kunt natuurlijk ook andere dingen tekenen.
 
 \--- task ---
 
-- Click on **+ Add new label** on the top right of the screen and add a label called `banana`.
+- Klik rechtsboven in het scherm op **+ Voeg een nieuw label toe** en voeg een label toe met de naam `banaan`.
 
 \--- /task ---
 
 \--- task ---
 
-- Click the **Draw** button in **banana**.
+- Klik op de **Teken**-knop in **banaan**.
 
 \--- /task ---
 
 \--- task ---
 
-- Draw a picture of a banana in the box.
+- Teken een banaan in het vakje.
 
-![A hand drawn picture of a banana](images/draw-banana.png)
+![Een met de hand getekende afbeelding van een banaan](images/draw-banana.png)
 
-- Click the **Add** button to save your drawing.
-
-\--- /task ---
-
-\--- task ---
-
-- Repeat those steps until you have **at least eight examples** of bananas. Try to draw them in different ways so there is a variety.
-  ![Bucket filled with 8 examples of basic hand drawn bananas](images/8-banana.png)
+- Klik op de knop **Voeg Toe** om jouw tekening op te slaan.
 
 \--- /task ---
 
 \--- task ---
 
-- Click on **+ Add new label** on the top right of the screen and add a label called `apple`.
+- Herhaal deze stappen totdat je **ten minste acht voorbeelden** van bananen hebt. Probeer ze op verschillende manieren te tekenen, zodat er variatie ontstaat.
+  ![Container gevuld met 8 voorbeelden van eenvoudige met de hand getekende bananen](images/8-banana.png)
+
+\--- /task ---
+
+\--- task ---
+
+- Klik rechtsboven in het scherm op **+ Voeg een nieuw label toe** en voeg een label toe met de naam `appel`.
 
 \--- /task ---
 
@@ -47,7 +47,7 @@ You are going to draw two different images several times. This will teach your m
 
 - Click on **Draw** inside the box for the new `apple` label, and draw a picture of an apple.
 
-- Repeat until you have drawn **at least eight examples** of apples.
+- Herhaal totdat je **ten minste acht voorbeelden** appels hebt getekend.
 
 \--- /task ---
 
