@@ -1,4 +1,4 @@
-## Draw some examples
+## Dessiner quelques exemples
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,48 +6,48 @@
   </div>
 </html>
 
-You are going to draw two different images several times. This will teach your machine learning model to tell the difference between the two things you will draw. We have chosen a banana and an apple, but you can choose other things to draw if you prefer.
+Tu as dessiné plusieurs fois deux images différentes. Cela apprendra à ton modèle d’apprentissage automatique à faire la différence entre les deux choses que tu as dessinées. Nous avons choisi une banane et une pomme, mais tu peux choisir d'autres choses à dessiner si tu préfères.
 
 \--- task ---
 
-- Click on **+ Add new label** on the top right of the screen and add a label called `banana`.
+- Clique sur **+ Ajouter une nouvelle étiquette** en haut à droite de l'écran et ajoute une étiquette appelée « banane ».
 
 \--- /task ---
 
 \--- task ---
 
-- Click the **Draw** button in **banana**.
+- Clique sur le bouton **dessin** dans **banane**.
 
 \--- /task ---
 
 \--- task ---
 
-- Draw a picture of a banana in the box.
+- Dessine une banane dans la boîte.
 
-![A hand drawn picture of a banana](images/draw-banana.png)
+![Une image dessinée à la main d'une banane](images/draw-banana.png)
 
-- Click the **Add** button to save your drawing.
-
-\--- /task ---
-
-\--- task ---
-
-- Repeat those steps until you have **at least eight examples** of bananas. Try to draw them in different ways so there is a variety.
-  ![Bucket filled with 8 examples of basic hand drawn bananas](images/8-banana.png)
+- Clique sur le bouton **Ajouter** pour enregistrer ton dessin.
 
 \--- /task ---
 
 \--- task ---
 
-- Click on **+ Add new label** on the top right of the screen and add a label called `apple`.
+- Répète ces étapes jusqu'à obtenir **au moins huit exemples** de bananes. Essaie de les dessiner de différentes manières pour qu'il y ait de la variété.
+  ![Élément rempli de 8 exemples de bananes basiques dessinées à la main](images/8-banana.png)
 
 \--- /task ---
 
 \--- task ---
 
-- Click on **Draw** inside the box for the new `apple` label, and draw a picture of an apple.
+- Clique sur **+ Ajouter une nouvelle étiquette** en haut à droite de l'écran et ajoute une étiquette appelée « pomme ».
 
-- Repeat until you have drawn **at least eight examples** of apples.
+\--- /task ---
+
+\--- task ---
+
+- Clique sur **dessin** à l'intérieur de la case pour la nouvelle étiquette « pomme » et dessine une image d'une pomme.
+
+- Répète jusqu’à ce que tu aies dessiné **au moins huit exemples** de pommes.
 
 \--- /task ---
 
