@@ -1,9 +1,9 @@
-resultat
+résultat
 
-confidence
+confiance
 
-detected
+détecté
 
-I predict it's a ...
+Je pense que c'est une...
 
-I don't know what that is
+Je ne sais pas ce que c'est
