@@ -1,6 +1,6 @@
-title: Doodle detector
+title: Détecteur de gribouillages
 hero_image: images/banner.png
-description: Train the computer to recognise what you have drawn
+description: Entraîne l'ordinateur à reconnaître ce que tu as dessiné
 version: 1
 listed: true
 copyedit: false
@@ -10,14 +10,13 @@ steps:
   - title: Configurer le projet
     completion:
     - engaged
-  - title: Draw some examples
+  - title: Dessiner quelques exemples
   - title: Entraîner le modèle
-  - title: Create a canvas
-  - title: What was it?
+  - title: Créer un canvas
+  - title: C'était quoi ?
     completion:
     - internal
   - title: Défi
     challenge: true
-  - title: Que peux-tu faire maintenant ?
     completion:
     - external
