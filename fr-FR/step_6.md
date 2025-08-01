@@ -1,4 +1,4 @@
-## What was it?
+## C'était quoi ?
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,11 +6,11 @@
   </div>
 </html>
 
-The cat sprite will announce what it predicts you have drawn.
+Le sprite chat annoncera ce qu'il prédit que tu as dessiné.
 
 \--- task ---
 
-- Click on the cat sprite. Add some code so that the cat tells you what it predicts you drew.
+- Clique sur le sprite chat. Ajoute du code pour que le chat te dise ce qu'il pense que tu as dessiné.
 
 ```blocks3
 when I receive [detected v]
@@ -21,24 +21,24 @@ think (join [I predict it's a...] (result)) for (2) seconds
 
 \--- task ---
 
-- Click on the canvas sprite, then click on the **costumes tab**.
+- Clique sur le sprite canvas, puis sur l'onglet **Costumes**.
 
-- Select the **paint brush** tool and change the **fill** colour to black.
-  ![Paint brush tool selected and black fill colour](images/black-brush.png)
-
-\--- /task ---
-
-\--- task ---
-
-- Use the paint brush to draw a large apple. When you are finished, press the space bar and see what the cat predicts you drew.
-
-![Apple drawn on canvas, cat reports it's an apple](images/its-an-apple.png)
+- Sélectionne l'outil **pinceau** et change la couleur de **remplissage** en noir.
+  ![Outil Pinceau sélectionné et couleur de remplissage noire](images/black-brush.png)
 
 \--- /task ---
 
 \--- task ---
 
-- You can add more code so that the cat sprite will only tell you the result if the confidence level is over 70.
+- Utilise le pinceau pour dessiner une grosse pomme. Lorsque tu as terminé, appuie sur la barre d'espace et vois ce que le chat pense que tu as dessiné.
+
+![Pomme dessinée sur le canvas, le chat signale que c'est une pomme](images/its-an-apple.png)
+
+\--- /task ---
+
+\--- task ---
+
+- Tu peux ajouter plus de code pour que le sprite chat ne t'indique le résultat que si le niveau de confiance est supérieur à 70.
 
 ```blocks3
 when I receive [detected v]
@@ -52,8 +52,8 @@ think [I don't know what that is] for (2) seconds
 
 \--- task ---
 
-- Click on the canvas and this time draw something completely different. See whether the cat thinks you drew an apple, a banana, or isn't sure.
+- Clique sur le canvas et cette fois, dessine quelque chose de complètement différent. Vois si le chat pense que tu as dessiné une pomme, une banane ou s'il n'est pas sûr.
 
-![X drawn on the canvas, cat reports not knowing what was drawn](images/not-confident.png)
+![X dessiné sur le canvas, le chat signale qu'il ne sait pas ce qui a été dessiné](images/not-confident.png)
 
 \--- /task ---
