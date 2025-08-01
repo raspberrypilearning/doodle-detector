@@ -1,40 +1,40 @@
 1
 00:00:04,120 --> 00:00:08,000
-Click back to the cat sprite, and 
-we're going to enter some more code.
+Clique de nouveau sur le sprite chat, et 
+nous allons entrer un peu plus de code.
 
 2
 00:00:08,000 --> 00:00:14,720
-This time the code tells the 
-cat to display the results.
+Cette fois, le code indique au 
+chat d'afficher les résultats.
 
 3
 00:00:14,720 --> 00:00:16,880
-Let's see if it works.
+Voyons si ça marche.
 
 4
 00:00:16,880 --> 00:00:21,080
-Select the canvas sprite and go to costumes.
+Sélectionne le sprite du canvas et va aux costumes.
 
 5
 00:00:21,080 --> 00:00:28,800
-With a black paintbrush selected, draw a picture.
+Avec un pinceau noir sélectionné, dessine une image.
 
 6
 00:00:28,800 --> 00:00:31,240
-Press space to see the results.
+Appuie sur espace pour voir les résultats.
 
 7
 00:00:31,240 --> 00:00:36,040
-Try a banana too!
+Essaie aussi une banane !
 
 8
 00:00:36,040 --> 00:00:49,480
-Click back to the cat and add some code to check 
-how confident the model is with its prediction.
+Clique de nouveau sur le chat et ajoute du code pour vérifier 
+à quel point le modèle est confiant dans sa prédiction.
 
 9
 00:00:49,480 --> 00:00:59,240
-Now draw something that is 
-not an apple or a banana.
+Maintenant dessine quelque chose qui n'est 
+pas une pomme ou une banane.
 
