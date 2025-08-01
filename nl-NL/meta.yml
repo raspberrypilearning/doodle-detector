@@ -1,6 +1,6 @@
 title: Doodle detector
 hero_image: images/banner.png
-description: Train the computer to recognise what you have drawn
+description: Train de computer om te herkennen wat je hebt getekend
 version: 1
 listed: true
 copyedit: false
@@ -10,14 +10,13 @@ steps:
   - title: Het project opzetten
     completion:
     - engaged
-  - title: Draw some examples
+  - title: Teken enkele voorbeelden
   - title: Train het model
-  - title: Create a canvas
-  - title: What was it?
+  - title: Maak een canvas
+  - title: Wat was dat?
     completion:
     - internal
   - title: Uitdaging
     challenge: true
-  - title: Wat kun je verder nog doen?
     completion:
     - external
