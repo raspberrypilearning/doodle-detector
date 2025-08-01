@@ -1,4 +1,4 @@
-## Create a canvas
+## Créer un canvas
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,50 +6,50 @@
   </div>
 </html>
 
-Now that your model can distinguish between drawings, you can use it in a Scratch program.
+Maintenant que ton modèle peut distinguer les dessins, tu peux l'utiliser dans un programme Scratch.
 
 \--- task ---
 
-- Click on the **< Back to project** link.
+- Clique sur le lien **< Revenir au projet**.
 
-- Click on **Make**.
+- Clique sur **Faire**.
 
-- Click on **Scratch 3**.
+- Clique sur **Scratch 3**.
 
-- Click on **Open in Scratch 3**.
+- Clique sur **Ouvrir dans Scratch 3**.
 
 \--- /task ---
 
-Machine Learning for Kids has added some special blocks to Scratch to allow you to use the model you just trained. Find them at the bottom of the blocks list.
+Machine Learning for Kids a ajouté des blocs spéciaux à Scratch pour te permettre d'utiliser le modèle que tu viens d'entraîner. Trouve-les en bas de la liste des blocs.
 
-![New blocks called 'Doodle detector' appear in the menu under Images](images/new-blocks.png)
-
-\--- task ---
-
-- Create a new sprite using the 'Paint' option. Name your sprite 'Canvas'.
-  ![Add a new sprite using paint, and name it canvas](images/new-sprite.png)
-
-\--- /task ---
+![De nouveaux blocs appelés "Détecteur de gribouillages" apparaissent dans le menu sous Images](images/new-blocks.png)
 
 \--- task ---
 
-- Click the purple **Convert to bitmap** button at the bottom, underneath the drawing area.
+- Crée un nouveau sprite en utilisant l'option « Peindre ». Nomme ton sprite « Canvas ».
+  ![Ajoute un nouveau sprite en utilisant Peindre et nomme-le canvas](images/new-sprite.png)
 
 \--- /task ---
 
 \--- task ---
 
-- Click on the **Code tab** for the canvas sprite and create two **variables** called `result` and `confidence`.
-
-![Create two new variables called confidence and result](images/create-variable.png)
+- Clique sur le bouton violet **Convertir en bitmap** en bas, sous la zone de dessin.
 
 \--- /task ---
 
 \--- task ---
 
-- Drag in the correct blocks to set the value of these variables when the space key is pressed. Create a **broadcast** called `detected` and broadcast it once the variables are set.
+- Clique sur l'onglet **Code** pour le sprite du canvas et crée deux **variables** appelées « résultat » et « confiance ».
 
-![Scratch code: When space key pressed, set result to recognise image (costume image) label, set confidence to recognise image (costume image) confidence, broadcast detected](images/canvas-sprite.png)
+![Crée deux nouvelles variables appelées confiance et résultat](images/create-variable.png)
+
+\--- /task ---
+
+\--- task ---
+
+- Fais glisser les blocs corrects pour définir la valeur de ces variables lorsque la touche espace est enfoncée. Crée un **message** appelé « détecté » et envoie-la une fois les variables définies.
+
+![Code Scratch : quand la touche espace est pressée, mettre résultat à reconnaître image (costume image) label, mettre confiance à reconnaître image (costume image) label, envoyer à tous détecté](images/canvas-sprite.png)
 
 \--- /task ---
 
