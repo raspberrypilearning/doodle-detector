@@ -1,8 +1,8 @@
 ## Ce que tu vas faire
 
-Train a machine learning model to recognise what you have drawn.
+Entraîne un modèle d’apprentissage automatique pour reconnaître ce que tu as dessiné.
 
-![A Scratch project where someone has drawn an apple and the Scratch cat is saying "I predict it's a...apple"](images/its-an-apple.png)
+![Un projet Scratch où quelqu'un a dessiné une pomme et le chat Scratch dit "Je pense que c'est une... pomme"](images/its-an-apple.png)
 
 \--- collapse ---
 
@@ -10,7 +10,7 @@ Train a machine learning model to recognise what you have drawn.
 
 ## title: Où sont stockées mes images ?
 
-- Ce projet utilise une technologie appelée « apprentissage automatique ». Machine learning systems are trained using a large amount of data.
+- Ce projet utilise une technologie appelée « apprentissage automatique ». Les systèmes d'apprentissage automatique sont entraînés à l'aide d'une grande quantité de données.
 - Ce projet ne nécessite pas la création d'un compte ou d'une connexion. Pour ce projet, les exemples d'images que tu utilises pour réaliser le modèle ne sont stockés que temporairement dans ton navigateur (uniquement sur ta machine).
 
 \--- /collapse ---
