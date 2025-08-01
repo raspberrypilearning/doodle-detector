@@ -4,13 +4,13 @@
 
 \--- task ---
 
-**More drawings**: Go back to your model and add another label for a different item, e.g. "lemon". Provide eight examples and retrain your model so that it recognises a third type of drawing.
+**Plus de dessins** : retourne à ton modèle et ajoute une autre étiquette pour un élément différent, par exemple « citron ». Donne huit exemples et entraîne de nouveau ton modèle afin qu’il reconnaisse un troisième type de dessin.
 
 \--- /task ---
 
 \--- task ---
 
-**Different sprite**: Change the cat sprite to a different sprite. You could add different phrases or animate your sprite depending on what was drawn.
+**Sprite différent** : change le sprite chat en un sprite différent. Tu peux ajouter différentes phrases ou animer ton sprite en fonction de ce qui a été dessiné.
 
 \--- /task ---
 
