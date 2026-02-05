@@ -1,4 +1,4 @@
-## What was it?
+## O que é que era?
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,11 +6,11 @@
   </div>
 </html>
 
-The cat sprite will announce what it predicts you have drawn.
+O ator gato irá anunciar o que prevê teres desenhado.
 
 \--- task ---
 
-- Click on the cat sprite. Add some code so that the cat tells you what it predicts you drew.
+- Clica no ator gato. Acrescenta código para que o gato diga o que prevê teres desenhado.
 
 ```blocks3
 when I receive [detected v]
@@ -21,24 +21,24 @@ think (join [I predict it's a...] (result)) for (2) seconds
 
 \--- task ---
 
-- Click on the canvas sprite, then click on the **costumes tab**.
+- Clica no ator tela e a seguir clica na aba **trajes**.
 
-- Select the **paint brush** tool and change the **fill** colour to black.
-  ![Paint brush tool selected and black fill colour](images/black-brush.png)
-
-\--- /task ---
-
-\--- task ---
-
-- Use the paint brush to draw a large apple. When you are finished, press the space bar and see what the cat predicts you drew.
-
-![Apple drawn on canvas, cat reports it's an apple](images/its-an-apple.png)
+- Seleciona a ferramenta **pincel** e altera a cor de **preenchimento** para preto.
+  ![Ferramenta pincel selecionada e cor de preenchimento preta](images/black-brush.png)
 
 \--- /task ---
 
 \--- task ---
 
-- You can add more code so that the cat sprite will only tell you the result if the confidence level is over 70.
+- Utiliza o pincel para desenhar uma maçã grande. Quando terminar, pressiona a barra de espaço e vê o que o gato prevê teres desenhado.
+
+![Maçã desenhada na tela, gato indica que é uma maçã](images/its-an-apple.png)
+
+\--- /task ---
+
+\--- task ---
+
+- Pode usar mais código para que o ator gato só mostre o resultado se o nível de confiança for superior a 70.
 
 ```blocks3
 when I receive [detected v]
@@ -52,8 +52,8 @@ think [I don't know what that is] for (2) seconds
 
 \--- task ---
 
-- Click on the canvas and this time draw something completely different. See whether the cat thinks you drew an apple, a banana, or isn't sure.
+- Clica na tela e desta vez desenha algo completamente diferente. Veja se o gato pensa teres desenhado uma maçã, uma banana ou não tem a certeza.
 
-![X drawn on the canvas, cat reports not knowing what was drawn](images/not-confident.png)
+![X desenhado na tela, o gato diz não saber o que foi desenhado](images/not-confident.png)
 
 \--- /task ---
