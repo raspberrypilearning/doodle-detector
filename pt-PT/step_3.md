@@ -1,4 +1,4 @@
-## Draw some examples
+## Desenha alguns exemplos
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,48 +6,48 @@
   </div>
 </html>
 
-You are going to draw two different images several times. This will teach your machine learning model to tell the difference between the two things you will draw. We have chosen a banana and an apple, but you can choose other things to draw if you prefer.
+Vai desenhar duas imagens diferentes várias vezes. Isto irá ensinar o teu modelo de machine learning a distinguir as duas coisas que irás desenhar. Escolhemos uma banana e uma maçã, mas pode escolher outras coisas para desenhar, se preferires.
 
 \--- task ---
 
-- Click on **+ Add new label** on the top right of the screen and add a label called `banana`.
+- Clica em **+ Adicionar um novo rótulo** no canto superior direito do ecrã e adiciona um rótulo chamado `banana`.
 
 \--- /task ---
 
 \--- task ---
 
-- Click the **Draw** button in **banana**.
+- Clica no botão **Desenhar** em **banana**.
 
 \--- /task ---
 
 \--- task ---
 
-- Draw a picture of a banana in the box.
+- Desenhe uma banana na caixa.
 
-![A hand drawn picture of a banana](images/draw-banana.png)
+![Uma imagem desenhada à mão de uma banana](images/draw-banana.png)
 
-- Click the **Add** button to save your drawing.
-
-\--- /task ---
-
-\--- task ---
-
-- Repeat those steps until you have **at least eight examples** of bananas. Try to draw them in different ways so there is a variety.
-  ![Bucket filled with 8 examples of basic hand drawn bananas](images/8-banana.png)
+- Clica no botão **Adicionar** para guardar o teu desenho.
 
 \--- /task ---
 
 \--- task ---
 
-- Click on **+ Add new label** on the top right of the screen and add a label called `apple`.
+- Repete estes passos até teres **pelo menos oito exemplos** de bananas. Tenta desenhá-los de diferentes formas para que haja variedade.
+  ![Balde cheio com oito exemplos de bananas básicas desenhadas à mão](images/8-banana.png)images/8-banana.png
 
 \--- /task ---
 
 \--- task ---
 
-- Click on **Draw** inside the box for the new `apple` label, and draw a picture of an apple.
+- Clica em **+ Adicionar um novo rótulo** no canto superior direito do ecrã e adiciona um rótulo chamado `maçã`.
 
-- Repeat until you have drawn **at least eight examples** of apples.
+\--- /task ---
+
+\--- task ---
+
+- Clica em **Desenhar** dentro da caixa para o novo rótulo `maçã` e desenha uma maçã.
+
+- Repite até teres desenhado **pelo menos oito exemplos** de maçãs.
 
 \--- /task ---
 
