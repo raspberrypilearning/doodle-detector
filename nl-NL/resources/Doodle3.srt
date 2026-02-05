@@ -1,13 +1,13 @@
 1
 00:00:04,680 --> 00:00:09,200
-Click 'Back' and then click 'Learn & Test'.
+Klik op 'Terug naar project' en klik vervolgens op 'Leer & Test'.
 
 2
 00:00:09,200 --> 00:00:17,480
-Train your model, then test whether 
-it predicts that you drew an apple.
+Train je model en test of het
+voorspelt dat je een appel hebt getekend.
 
 3
 00:00:17,480 --> 00:00:26,040
-Test a banana too.
+Test ook een banaan.
 
