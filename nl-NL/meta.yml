@@ -13,7 +13,7 @@ steps:
   - title: Teken enkele voorbeelden
   - title: Train het model
   - title: Maak een canvas
-  - title: Wat was dat?
+  - title: Wat was het?
     completion:
     - internal
   - title: Uitdaging
