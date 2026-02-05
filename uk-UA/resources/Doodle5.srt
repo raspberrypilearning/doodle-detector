@@ -1,40 +1,39 @@
 1
 00:00:04,120 --> 00:00:08,000
-Click back to the cat sprite, and 
-we're going to enter some more code.
+Натисни "Назад" до об'єкта кота, і
+потрібно ввести ще трохи коду.
 
 2
 00:00:08,000 --> 00:00:14,720
-This time the code tells the 
-cat to display the results.
+Цього разу код повідомляє коту
+про необхідність показати результати.
 
 3
 00:00:14,720 --> 00:00:16,880
-Let's see if it works.
+Подивимося, чи усе працює.
 
 4
 00:00:16,880 --> 00:00:21,080
-Select the canvas sprite and go to costumes.
+Вибери полотно і перейди до костюмів.
 
 5
 00:00:21,080 --> 00:00:28,800
-With a black paintbrush selected, draw a picture.
+Вибравши чорний пензель, створи малюнок.
 
 6
 00:00:28,800 --> 00:00:31,240
-Press space to see the results.
+Натисни пробіл, щоб побачити результати.
 
 7
 00:00:31,240 --> 00:00:36,040
-Try a banana too!
+Спробуй також і "банан"!
 
 8
 00:00:36,040 --> 00:00:49,480
-Click back to the cat and add some code to check 
-how confident the model is with its prediction.
+Натисни знову на кота та додай код, щоб перевірити
+наскільки правильна модель у своєму прогнозі.
 
 9
 00:00:49,480 --> 00:00:59,240
-Now draw something that is 
-not an apple or a banana.
+Тепер намалюй щось окрім яблука чи банану.
 
