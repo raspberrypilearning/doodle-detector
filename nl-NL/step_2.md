@@ -12,7 +12,7 @@
 
 - Klik op **Begin**
 
-- Klik op **Scratch 3**.
+- Klik op 'Probeer nu\*\*.
 
 \--- /task ---
 
@@ -32,8 +32,8 @@
 
 \--- task ---
 
-- Klik op **Maak**.
-  ![Project hoofdmenu](images/project-make-annotated.png)
+- Klik op de knop **Train**.
+  ![Project hoofdmenu met een pijl naar de Train-knop](images/project-make-annotated.png)
 
 \--- /task ---
 
