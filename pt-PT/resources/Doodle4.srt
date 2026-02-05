@@ -1,20 +1,20 @@
 1
 00:00:03,633 --> 00:00:06,133
-Now click 'Back' and choose 'Make' this time.
+Agora clica em "Voltar" e desta vez escolhe "Criar".
 
 2
 00:00:06,533 --> 00:00:08,799
-We're going to use the model in Scratch.
+Vais usar o modelo no Scratch.
 
 3
 00:00:10,898 --> 00:00:14,598
-Paint a new sprite and call it 'Canvas'.
+Pinta um novo ator e chama-lhe "Ecrã".
 
 4
 00:00:17,530 --> 00:00:23,363
-Convert it to a bitmap and then click on the code tab and drag in the code blocks.
+Converte-o num bitmap e clique no separador de código e arrasta os blocos de código.
 
 5
 00:00:24,396 --> 00:00:28,961
-This code tells the model to predict what was drawn when the space key is pressed.
+Este código indica ao modelo para prever o que foi desenhado quando a tecla de espaço foi pressionada.
 
