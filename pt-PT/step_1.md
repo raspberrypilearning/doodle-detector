@@ -1,24 +1,24 @@
-## What you will make
+## O que vais fazer
 
-Train a machine learning model to recognise what you have drawn.
+Treina um modelo de Machine Learning para reconhecer o que estás a desenhar.
 
-![A Scratch project where someone has drawn an apple and the Scratch cat is saying "I predict it's a...apple"](images/its-an-apple.png)
+![Um projecto do Scratch em que alguém desenhou uma maçã e o gato do Scratch está a dizer "Eu prevejo que é um(a)... maçã"](images/its-an-apple.png)
 
 \--- collapse ---
 
 ---
 
-## title: Where are my images stored?
+## title: Onde estão guardadas as minhas imagens?
 
-- This project uses a technology called 'machine learning'. Machine learning systems are trained using a large amount of data.
-- This project does not require you to create an account or log in. For this project, the image examples you use to make the model are only stored temporarily in your browser (only on your machine).
+- Este projeto usa uma tecnologia chamada 'machine learning'. Os sistemas de machine learning são treinados com uma grande quantidade de dados.
+- Este projeto não exige que cries uma conta ou faças login. Para este projeto, as imagens de exemplo que usas para o modelo são armazenadas temporariamente no teu navegador (apenas na tua máquina).
 
 \--- /collapse ---
 
 ## --- collapse ---
 
-## title: No YouTube? Download the videos!
+## title: Não tens Youtube? Descarrega estes vídeos!
 
-You can [download all the videos for this project](https://rpf.io/p/en/doodle-detector-go){:target="_blank"}.
+Podes [descarregar todos os vídeos para este projeto](https://rpf.io/p/en/doodle-detector-go){:target="_blank"}.
 
 \--- /collapse ---
