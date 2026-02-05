@@ -8,32 +8,32 @@
 
 \--- task ---
 
-- Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} in a web browser.
+- Перейди на [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} у браузері.
 
-- Click on **Get started**.
+- Натисни **Почати**.
 
-- Click on **Try it now**.
-
-\--- /task ---
-
-\--- task ---
-
-- Click on **Projects** in the menu bar at the top.
-
-- Click on the **+ Add a new project** button.
-
-- Name your project `Doodle detector` and set it to learn to recognise **images**, and store data **in your web browser**. Then click on **Create**.
-  ![Creating a project](images/create-project.png)
-
-- You should now see 'Doodle detector' in the projects list. Click on the project.
-  ![Project list with doodle detector listed](images/projects-list.png)
+- Натисни **Спробувати**.
 
 \--- /task ---
 
 \--- task ---
 
-- Click on the **Train** button.
-  ![Project main menu with arrow pointing to Train button](images/project-train.png)
+- Натисни **Проєкти** на панелі меню зверху.
+
+- Натисни кнопку **+ Додати новий проєкт**.
+
+- Назви свій проєкт "Дудл-детектор" та налаштуй його так, щоб він міг розпізнавати **зображення** та зберігати дані **у твоєму браузері**. Далі натисни кнопку **Створити**.
+  ![Створення проєкту](images/create-project.png)
+
+- Тепер у списку проєктів має висвітлюватися "Дудл-детектор". Натисни на проєкт.
+  ![Список проєктів із Дудл-деттектором.](images/projects-list.png)
+
+\--- /task ---
+
+\--- task ---
+
+- Натисни кнопку **Навчити**.
+  ![Головне меню проєкту зі стрілкою, що вказує на кнопку «Навчити»] (images/project-train.png)
 
 \--- /task ---
 
