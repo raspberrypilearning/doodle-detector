@@ -1,20 +1,20 @@
 1
 00:00:03,633 --> 00:00:06,133
-Now click 'Back' and choose 'Make' this time.
+Далі натисни "Назад" та вибери "Створити".
 
 2
 00:00:06,533 --> 00:00:08,799
-We're going to use the model in Scratch.
+Ми будемо використовувати модель у Scratch.
 
 3
 00:00:10,898 --> 00:00:14,598
-Paint a new sprite and call it 'Canvas'.
+Намалюй новий об'єкт та назви його "Полотно".
 
 4
 00:00:17,530 --> 00:00:23,363
-Convert it to a bitmap and then click on the code tab and drag in the code blocks.
+Перетвори його на растрове зображення, а потім натисни на вкладку з кодом і перетягнути блоки коду.
 
 5
 00:00:24,396 --> 00:00:28,961
-This code tells the model to predict what was drawn when the space key is pressed.
+Цей код дає сигнал передбачити, що було створено при натисканні клавіші пробілу.
 
