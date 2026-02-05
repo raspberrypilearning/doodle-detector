@@ -1,4 +1,4 @@
-## Draw some examples
+## Намалюй декілька прикладів
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,48 +6,48 @@
   </div>
 </html>
 
-You are going to draw two different images several times. This will teach your machine learning model to tell the difference between the two things you will draw. We have chosen a banana and an apple, but you can choose other things to draw if you prefer.
+Намалюй декілька разів два різні зображення. Це навчить твій комп'ютер розпізнавати різницю між двома речами, які ти намалюєш. Ми вибрали банан і яблуко, але ти можеш обрати намалювати інші предмети, якщо бажаєш.
 
 \--- task ---
 
-- Click on **+ Add new label** on the top right of the screen and add a label called `banana`.
+- Натисни **+ Додати нову мітку** у верхньому правому куті екрану і додай мітку з назвою "банан".
 
 \--- /task ---
 
 \--- task ---
 
-- Click the **Draw** button in **banana**.
+- Натисніть кнопку **Малювати** у **банані**.
 
 \--- /task ---
 
 \--- task ---
 
-- Draw a picture of a banana in the box.
+- Намалюй банан у комірці.
 
-![A hand drawn picture of a banana](images/draw-banana.png)
+![Намальоване вручну зображення банана](images/draw-banana.png)
 
-- Click the **Add** button to save your drawing.
-
-\--- /task ---
-
-\--- task ---
-
-- Repeat those steps until you have **at least eight examples** of bananas. Try to draw them in different ways so there is a variety.
-  ![Bucket filled with 8 examples of basic hand drawn bananas](images/8-banana.png)
+- Натисни кнопку **Додати**, щоб зберегти малюнок.
 
 \--- /task ---
 
 \--- task ---
 
-- Click on **+ Add new label** on the top right of the screen and add a label called `apple`.
+- Повторюй ці кроки поки не матимеш щонайменше вісім таких малюнків бананів. Спробуй намалювати їх по-різному для різноманіття.
+  ![Відро, наповнене 8 прикладами простих бананів, намальованих вручну](images/8-banana.png)
 
 \--- /task ---
 
 \--- task ---
 
-- Click on **Draw** inside the box for the new `apple` label, and draw a picture of an apple.
+- Натисни **+ Додати нову мітку** у верхньому правому куті екрану і додай мітку з назвою "яблуко".
 
-- Repeat until you have drawn **at least eight examples** of apples.
+\--- /task ---
+
+\--- task ---
+
+- Натисни на **Малювати** всередині комірки для нової мітки «яблуко» та намалюй яблуко.
+
+- Повторюй доки не намалюєш принаймні вісім зразків яблук.
 
 \--- /task ---
 
