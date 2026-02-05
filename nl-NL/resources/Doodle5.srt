@@ -1,40 +1,40 @@
 1
 00:00:04,120 --> 00:00:08,000
-Click back to the cat sprite, and 
-we're going to enter some more code.
+Klik terug naar de kat sprite en
+voer nog wat code in.
 
 2
 00:00:08,000 --> 00:00:14,720
-This time the code tells the 
-cat to display the results.
+Deze keer vertelt de code de kat
+om de resultaten weer te geven.
 
 3
 00:00:14,720 --> 00:00:16,880
-Let's see if it works.
+Laten we kijken of het werkt.
 
 4
 00:00:16,880 --> 00:00:21,080
-Select the canvas sprite and go to costumes.
+Selecteer de canvassprite en ga naar Uiterlijken.
 
 5
 00:00:21,080 --> 00:00:28,800
-With a black paintbrush selected, draw a picture.
+Teken een plaatje met een zwarte kwast.
 
 6
 00:00:28,800 --> 00:00:31,240
-Press space to see the results.
+Druk op de spatiebalk om de resultaten te bekijken.
 
 7
 00:00:31,240 --> 00:00:36,040
-Try a banana too!
+Probeer ook een banaan!
 
 8
 00:00:36,040 --> 00:00:49,480
-Click back to the cat and add some code to check 
-how confident the model is with its prediction.
+Klik terug naar de kat en voeg wat code toe om te controleren
+hoe zeker het model is van de voorspelling.
 
 9
 00:00:49,480 --> 00:00:59,240
-Now draw something that is 
-not an apple or a banana.
+Teken nu iets dat
+geen appel of banaan is.
 
