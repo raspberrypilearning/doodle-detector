@@ -1,13 +1,13 @@
 1
 00:00:04,680 --> 00:00:09,200
-Click 'Back' and then click 'Learn & Test'.
+Clica em "Voltar" e depois clica em "Aprender & Testar".
 
 2
 00:00:09,200 --> 00:00:17,480
-Train your model, then test whether 
-it predicts that you drew an apple.
+Treine o teu modelo e testa se
+prevê que desenhas-te uma maçã.
 
 3
 00:00:17,480 --> 00:00:26,040
-Test a banana too.
+Testa também com uma banana.
 
