@@ -1,0 +1,23 @@
+---
+title: Doodle detector
+hero_image: images/banner.png
+description: Train de computer om te herkennen wat je hebt getekend
+version: 1
+listed: true
+copyedit: false
+last_tested: "2024-06-25"
+steps:
+  - title: Wat je gaat maken
+  - title: Het project opzetten
+    completion:
+      - engaged
+  - title: Teken enkele voorbeelden
+  - title: Train het model
+  - title: Maak een canvas
+  - title: Wat was het?
+    completion:
+      - internal
+  - title: Uitdaging
+    challenge: true
+    completion:
+      - external
