@@ -1,4 +1,4 @@
-## Create a canvas
+## Cria uma tela
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,50 +6,50 @@
   </div>
 </html>
 
-Now that your model can distinguish between drawings, you can use it in a Scratch program.
+Agora que o teu modelo consegue distinguir entre desenhos, podes usá-lo num programa Scratch.
 
 \--- task ---
 
-- Click on the **< Back to project** link.
+- Clica no link **< Voltar para o projeto**.
 
-- Click on **Make**.
+- Clica em **Fazer**.
 
-- Click on **Scratch 3**.
+- Clica em **Scratch 3**.
 
-- Click on **Open in Scratch 3**.
+- Clica em **Abrir no Scratch 3**.
 
 \--- /task ---
 
-Machine Learning for Kids has added some special blocks to Scratch to allow you to use the model you just trained. Find them at the bottom of the blocks list.
+Machine learning for Kids acrescentou alguns blocos especiais ao Scratch para permitir que utilizes o modelo que acabaste de treinar. Vais encontrar os blocos na última parte da lista.
 
-![New blocks called 'Doodle detector' appear in the menu under Images](images/new-blocks.png)
-
-\--- task ---
-
-- Create a new sprite using the 'Paint' option. Name your sprite 'Canvas'.
-  ![Add a new sprite using paint, and name it canvas](images/new-sprite.png)
-
-\--- /task ---
+![Novos blocos denominados 'Detetor de Rabiscos' aparecem no menu em Imagens](images/new-blocks.png)
 
 \--- task ---
 
-- Click the purple **Convert to bitmap** button at the bottom, underneath the drawing area.
+- Cria um novo ator utilizando a opção "Pintar". Muda o nome do teu ator para "Tela".
+  ![Adiciona um novo ator usando tinta e muda-lhe o nome para tela](images/new-sprite.png)
 
 \--- /task ---
 
 \--- task ---
 
-- Click on the **Code tab** for the canvas sprite and create two **variables** called `result` and `confidence`.
-
-![Create two new variables called confidence and result](images/create-variable.png)
+- Clica no botão roxo **Converter para bitmap** na parte inferior, abaixo da área de desenho.
 
 \--- /task ---
 
 \--- task ---
 
-- Drag in the correct blocks to set the value of these variables when the space key is pressed. Create a **broadcast** called `detected` and broadcast it once the variables are set.
+- Clica no **separador Código** do ator tela e crie duas **variáveis** chamadas `resultado` e `confiança`.
 
-![Scratch code: When space key pressed, set result to recognise image (costume image) label, set confidence to recognise image (costume image) confidence, broadcast detected](images/canvas-sprite.png)
+![Cria duas novas variáveis denominadas confiança e resultado](images/create-variable.png)
+
+\--- /task ---
+
+\--- task ---
+
+- Arrasta os blocos corretos para definir o valor destas variáveis quando a tecla de espaço é pressionada. Cria uma **mensagem** chamada `detetada` e transmite-a assim que as variáveis estiverem definidas.
+
+![Código de rascunho: Quando a tecla de espaço é pressionada, define resultado para reconhecer a categoria da imagem (imagem do traje), define a confiança para reconhecer confiança da imagem (imagem do traje), mensagem detetada](images/canvas-sprite.png)
 
 \--- /task ---
 
