@@ -1,16 +1,16 @@
-## Challenge
+## Desafio
 
 \--- challenge ---
 
 \--- task ---
 
-**More drawings**: Go back to your model and add another label for a different item, e.g. "lemon". Provide eight examples and retrain your model so that it recognises a third type of drawing.
+**Mais desenhos**: Volta ao teu modelo e cria outro rótulo para um item diferente, por exemplo, "limão". Fornece oito exemplos e volta a treinar o teu modelo de modo a que este reconheça um terceiro tipo de desenho.
 
 \--- /task ---
 
 \--- task ---
 
-**Different sprite**: Change the cat sprite to a different sprite. You could add different phrases or animate your sprite depending on what was drawn.
+**Ator diferente**: Muda o ator gato para um ator diferente. Pode acrescentar frases diferentes ou animar o teu ator dependendo do que foi desenhado.
 
 \--- /task ---
 
