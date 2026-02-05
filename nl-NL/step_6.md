@@ -14,7 +14,7 @@ De kat sprite zal aankondigen wat hij voorspelt dat je hebt getekend.
 
 ```blocks3
 when I receive [gedetecteerd v]
-think (join [Ik voorspel dat het een ...] (reresultaatult) [is]) for (2) seconds
+think (join [Ik voorspel: het is een ...] (reresultaatult)) for (2) seconds
 ```
 
 --- /task ---
@@ -43,7 +43,7 @@ think (join [Ik voorspel dat het een ...] (reresultaatult) [is]) for (2) seconds
 ```blocks3
 when I receive [gedetecteerd v]
 if <(betrouwbaarheid)>(70)> then
-think (join [Ik voorspel dat het een ...] (resultaat) [is]) for (2) seconds
+think (join [Ik voorspel: het is een ...] (resultaat)) for (2) seconds
 else
 think [Ik weet niet wat dat is] for (2) seconds
 ```
