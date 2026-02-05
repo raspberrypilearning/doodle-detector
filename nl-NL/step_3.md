@@ -45,9 +45,9 @@ Je gaat twee verschillende afbeeldingen meerdere keren tekenen. Hiermee leert jo
 
 \--- task ---
 
-- Click on **Draw** inside the box for the new `apple` label, and draw a picture of an apple.
+- Klik op **Teken** in het vak voor het nieuwe `appel`-label en teken een plaatje van een appel.
 
-- Herhaal totdat je **ten minste acht voorbeelden** appels hebt getekend.
+- Herhaal totdat je **ten minste acht voorbeelden** van appels hebt getekend.
 
 \--- /task ---
 
