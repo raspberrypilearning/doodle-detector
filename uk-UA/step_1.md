@@ -1,8 +1,8 @@
 ## Що ти зробиш
 
-Train a machine learning model to recognise what you have drawn.
+Навчи комп'ютер розпізнавати твої малюнки.
 
-![A Scratch project where someone has drawn an apple and the Scratch cat is saying "I predict it's a...apple"](images/its-an-apple.png)
+![Проєкт Scratch, де хтось малює яблуко, а кіт Scratch каже: «Я гадаю, що це...яблуко»](images/its-an-apple.png)
 
 \--- collapse ---
 
