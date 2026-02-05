@@ -1,17 +1,17 @@
 1
 00:00:04,120 --> 00:00:10,560
-Go to rpf.io/ml4k and click 'Try it now'.
+Ga naar rpf.io/ml4k en klik op 'Probeer nu'.
 
 2
 00:00:10,560 --> 00:00:13,400
-Add a new project called 'Doodle detector'.
+Voeg een nieuw project toe met de naam 'Doodle detector'.
 
 3
 00:00:13,400 --> 00:00:19,960
-Select 'recognising images', and set 
-the storage to 'In your web browser'.
+Selecteer 'Herkennen afbeeldingen', en stel
+in op 'In your webbrowser'.
 
 4
 00:00:19,960 --> 00:00:29,600
-Click on the project name, then click 'Train'.
+Klik op de projectnaam en klik vervolgens op 'Train'.
 
