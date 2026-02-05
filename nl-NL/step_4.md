@@ -6,7 +6,7 @@
   </div>
 </html>
 
-Je moet enkele voorbeelden verzamelen om de computer te trainen.
+Je hebt de voorbeelden verzameld die je nodig hebt, nu ga je deze gebruiken om jouw machine learning-model te trainen.
 
 \--- task ---
 
@@ -19,24 +19,24 @@ Je moet enkele voorbeelden verzamelen om de computer te trainen.
 
 \--- /task ---
 
-Once the training has finished, you can test how well your model recognises drawings of each type of object.
+Zodra de training is voltooid, kun je testen hoe goed jouw model tekeningen van elk type object herkent.
 
 \--- task ---
 
-- Click the **Test by drawing** button, then draw a picture of an apple.
+- Klik op de knop **Test door te tekenen** en teken vervolgens een appel.
 
-Your machine learning model will display its prediction for what you drew.
-![Arrow pointing to the test by drawing button](images/test-your-model.png)
+Je machine learning-model zal de voorspelling tonen van wat je hebt getekend.
+![Pijl wijst naar de Test door te tekenen-knop](images/test-your-model.png)
 
 \--- /task ---
 
 \--- task ---
 
-- Test whether the model recognises a drawing of a banana as well.
+- Test of het model ook een tekening van een banaan herkent.
 
 \--- /task ---
 
-If you are not happy with how the model is working, go back to the **Train** page and add more examples, then train your model again.
+Als je niet tevreden bent met hoe het model werkt, ga dan terug naar de **Train** pagina en voeg meer voorbeelden toe, en train daarna je model opnieuw.
 
 
 
