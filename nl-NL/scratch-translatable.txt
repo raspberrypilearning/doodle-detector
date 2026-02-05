@@ -1,9 +1,9 @@
 resultaat
 
-confidence
+betrouwbaarheid
 
-detected
+gedetecteerd
 
-I predict it's a ...
+Ik voorspel dat het een ... is
 
-I don't know what that is
+Ik weet niet wat dat is
