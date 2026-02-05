@@ -6,50 +6,50 @@
   </div>
 </html>
 
-Now that your model can distinguish between drawings, you can use it in a Scratch program.
+Nu je model het onderscheid kan maken tussen verschillende tekeningen, kun je het gebruiken in een Scratch-programma.
 
 \--- task ---
 
-- Click on the **< Back to project** link.
+- Klik op de link **< Terug naar project**.
 
-- Click on **Make**.
+- Klik op **Maak**.
 
-- Click on **Scratch 3**.
+- Klik op **Scratch 3**.
 
-- Click on **Open in Scratch 3**.
+- Klik op **Open in Scratch 3**.
 
 \--- /task ---
 
-Machine Learning for Kids has added some special blocks to Scratch to allow you to use the model you just trained. Find them at the bottom of the blocks list.
+Machine Learning for Kids heeft een paar speciale blokken aan Scratch toegevoegd om het model dat je net hebt getraind te kunnen gebruiken. Je vindt ze onderaan de lijst met blokken.
 
-![New blocks called 'Doodle detector' appear in the menu under Images](images/new-blocks.png)
-
-\--- task ---
-
-- Create a new sprite using the 'Paint' option. Name your sprite 'Canvas'.
-  ![Add a new sprite using paint, and name it canvas](images/new-sprite.png)
-
-\--- /task ---
+![Nieuwe blokken genaamd 'Doodle detector' verschijnen in het menu onder Images](images/new-blocks.png)
 
 \--- task ---
 
-- Click the purple **Convert to bitmap** button at the bottom, underneath the drawing area.
+- Maak een nieuwe sprite met de optie 'Teken'. Noem je sprite 'Canvas'.
+  ![Voeg een nieuwe sprite toe met behulp van Teken en noem deze Canvas](images/new-sprite.png)
 
 \--- /task ---
 
 \--- task ---
 
-- Click on the **Code tab** for the canvas sprite and create two **variables** called `result` and `confidence`.
-
-![Create two new variables called confidence and result](images/create-variable.png)
+- Klik op de paarse knop **Zet om naar bitmap** onderaan, onder het tekengebied.
 
 \--- /task ---
 
 \--- task ---
 
-- Drag in the correct blocks to set the value of these variables when the space key is pressed. Create a **broadcast** called `detected` and broadcast it once the variables are set.
+- Klik op het **Code tabblad** voor de canvas sprite en maak twee **variabelen** aan met de naam 'resultaat' en 'betrouwbaarheid'.
 
-![Scratch code: When space key pressed, set result to recognise image (costume image) label, set confidence to recognise image (costume image) confidence, broadcast detected](images/canvas-sprite.png)
+![Maak twee nieuwe variabelen aan met de naam betrouwbaarheid en resultaat](images/create-variable.png)
+
+\--- /task ---
+
+\--- task ---
+
+- Versleep de juiste blokken om de waarde van deze variabelen in te stellen wanneer de spatiebalk wordt ingedrukt. Maak een **zend signaal** aan met de naam `gedetecteerd` en zend deze uit zodra de variabelen zijn ingesteld.
+
+![Scratch code: Wanneer de spatiebalk is ingedrukt, stel het resultaat in op het herkennen van de afbeelding (costume image) label te herkennen, stel betrouwbaarheid in op het herkennen van de afbeelding (costume image) zekerheid, zend signaal gedetecteerd](images/canvas-sprite.png)
 
 \--- /task ---
 
