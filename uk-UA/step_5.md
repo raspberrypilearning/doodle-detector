@@ -1,4 +1,4 @@
-## Create a canvas
+## Створи полотно
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,50 +6,50 @@
   </div>
 </html>
 
-Now that your model can distinguish between drawings, you can use it in a Scratch program.
+Тепер коли твоя модель може розрізняти два зображення, ти можеш її використати в програмі Scratch для керування інопланетянином.
 
 \--- task ---
 
-- Click on the **< Back to project** link.
+- Натисни **< Назад до проєкту**.
 
-- Click on **Make**.
+- Натисни **Створити**.
 
-- Click on **Scratch 3**.
+- Натисни **Scratch 3**.
 
-- Click on **Open in Scratch 3**.
+- Натисни **Відкрити в Scratch 3**.
 
 \--- /task ---
 
-Machine Learning for Kids has added some special blocks to Scratch to allow you to use the model you just trained. Find them at the bottom of the blocks list.
+Програма «Машинне навчання для дітей» додала до Scratch кілька спеціальних блоків, які дозволяють використовувати щойно навчену модель. Знайди їх внизу у списку з блоками.
 
-![New blocks called 'Doodle detector' appear in the menu under Images](images/new-blocks.png)
-
-\--- task ---
-
-- Create a new sprite using the 'Paint' option. Name your sprite 'Canvas'.
-  ![Add a new sprite using paint, and name it canvas](images/new-sprite.png)
-
-\--- /task ---
+![Нові блоки під назвою «Дудл-детектор» з’являються в меню в розділі «Зображення»](images/new-blocks.png)
 
 \--- task ---
 
-- Click the purple **Convert to bitmap** button at the bottom, underneath the drawing area.
+- Створи новий спрайт, використовуючи опцію «Малювання». Назви свій спрайт «Полотно».
+  ![Додай новий спрайт за допомогою фарби та назви його полотно](images/new-sprite.png)
 
 \--- /task ---
 
 \--- task ---
 
-- Click on the **Code tab** for the canvas sprite and create two **variables** called `result` and `confidence`.
-
-![Create two new variables called confidence and result](images/create-variable.png)
+- Натисни фіолетову кнопку **Конвертувати в растрове зображення** внизу, під зоною малювання.
 
 \--- /task ---
 
 \--- task ---
 
-- Drag in the correct blocks to set the value of these variables when the space key is pressed. Create a **broadcast** called `detected` and broadcast it once the variables are set.
+- Вибери вкладку **Код** для спрайта полотна та створи дві **змінні** з назвами `результат` та `ймовірність`.
 
-![Scratch code: When space key pressed, set result to recognise image (costume image) label, set confidence to recognise image (costume image) confidence, broadcast detected](images/canvas-sprite.png)
+![Створи дві нові змінні з назвами ймовірність та результат](images/create-variable.png)
+
+\--- /task ---
+
+\--- task ---
+
+- Перетягни відповідні блоки, щоб встановити значення цих змінних після натискання клавіші пробілу. Створи **сигнал** під назвою `виявлено` та надішли його після встановлення змінних.
+
+![Скретч-код: При натисканні клавіші пробілу встановлюється результат розпізнавання зображення (зображення костюма) мітка, встановлюється впевненість розпізнавання зображення (зображення костюма) ймовірність, сигнал виявлено](images/canvas-sprite.png)
 
 \--- /task ---
 
