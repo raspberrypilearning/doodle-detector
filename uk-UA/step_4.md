@@ -6,37 +6,37 @@
   </div>
 </html>
 
-You have gathered the examples you need, now you will use these examples to train your machine learning model.
+Необхідні зразки зібрано, тепер тобі треба їх використати, щоб натренувати свою модель машинного навчання.
 
 \--- task ---
 
-- Click on **Back to project** in the top left-hand corner.
+- Натисни **< Назад до проєкту** у верхньому лівому куті.
 
-- Click on **Learn & Test**.
+- Натисни \*_Дізнатися та перевірити_.
 
-- Click on the button labelled **Train new machine learning model**. This may take a few minutes to complete.
-  ![Arrow pointing to button saying Train new machine learning model](images/train-new-model.png)
+- Натисни кнопку **Навчання нової моделі машинного навчання**. Це може зайняти кілька хвилин.
+  ![Стрілка вказує на кнопку 'Навчання нової моделі машинного навчання'.](images/train-new-model.png)
 
 \--- /task ---
 
-Once the training has finished, you can test how well your model recognises drawings of each type of object.
+Після завершення навчання ти можеш перевірити, як добре твоя модель розпізнає твої малюнки.
 
 \--- task ---
 
-- Click the **Test by drawing** button, then draw a picture of an apple.
+- Натисніть **Тест картинки** та намалюйте яблуко.
 
-Your machine learning model will display its prediction for what you drew.
-![Arrow pointing to the test by drawing button](images/test-your-model.png)
+Твоя модель машинного навчання покаже свій прогноз щодо того, що ти намалював.
+![Стрілка вказує на кнопку протестувати малюнок.](images/test-your-model.png)
 
 \--- /task ---
 
 \--- task ---
 
-- Test whether the model recognises a drawing of a banana as well.
+- Також перевір, чи розпізнає твоя модель малюнок банану.
 
 \--- /task ---
 
-If you are not happy with how the model is working, go back to the **Train** page and add more examples, then train your model again.
+Якщо ти не задоволений тим, як працює модель, то повернись на сторінку **Навчити** і додай більше зразків, а потім знову натренуй свою модель.
 
 
 
