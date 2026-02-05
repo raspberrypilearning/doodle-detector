@@ -1,0 +1,40 @@
+1
+00:00:04,120 --> 00:00:08,000
+Klik terug naar de kat sprite en
+voer nog wat code in.
+
+2
+00:00:08,000 --> 00:00:14,720
+Deze keer vertelt de code de kat
+om de resultaten weer te geven.
+
+3
+00:00:14,720 --> 00:00:16,880
+Laten we kijken of het werkt.
+
+4
+00:00:16,880 --> 00:00:21,080
+Selecteer de canvassprite en ga naar Uiterlijken.
+
+5
+00:00:21,080 --> 00:00:28,800
+Teken een plaatje met een zwarte kwast.
+
+6
+00:00:28,800 --> 00:00:31,240
+Druk op de spatiebalk om de resultaten te bekijken.
+
+7
+00:00:31,240 --> 00:00:36,040
+Probeer ook een banaan!
+
+8
+00:00:36,040 --> 00:00:49,480
+Klik terug naar de kat en voeg wat code toe om te controleren
+hoe zeker het model is van de voorspelling.
+
+9
+00:00:49,480 --> 00:00:59,240
+Teken nu iets dat
+geen appel of banaan is.
+
