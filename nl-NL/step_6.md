@@ -1,4 +1,4 @@
-## Wat was dat?
+## Wat was het?
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,11 +6,11 @@
   </div>
 </html>
 
-The cat sprite will announce what it predicts you have drawn.
+De kat sprite zal aankondigen wat hij voorspelt dat je hebt getekend.
 
 \--- task ---
 
-- Click on the cat sprite. Add some code so that the cat tells you what it predicts you drew.
+- Klik op de kat sprite. Voeg wat code toe, zodat de kat je vertelt wat hij denkt dat je hebt getekend.
 
 ```blocks3
 when I receive [detected v]
@@ -21,24 +21,24 @@ think (join [I predict it's a...] (result)) for (2) seconds
 
 \--- task ---
 
-- Click on the canvas sprite, then click on the **costumes tab**.
+- Klik op de canvas sprite en klik vervolgens op het **Uiterlijken tabblad**.
 
-- Select the **paint brush** tool and change the **fill** colour to black.
-  ![Paint brush tool selected and black fill colour](images/black-brush.png)
-
-\--- /task ---
-
-\--- task ---
-
-- Use the paint brush to draw a large apple. When you are finished, press the space bar and see what the cat predicts you drew.
-
-![Apple drawn on canvas, cat reports it's an apple](images/its-an-apple.png)
+- Selecteer het **kwast**-gereedschap en verander de **vulling** kleur naar zwart.
+  ![Kwast-gereedschap geselecteerd en zwarte vullingkleur](images/black-brush.png)
 
 \--- /task ---
 
 \--- task ---
 
-- You can add more code so that the cat sprite will only tell you the result if the confidence level is over 70.
+- Teken met de kwast een grote appel. Als je klaar bent, druk je op de spatiebalk en kijk je wat de kat denkt dat je hebt getekend.
+
+![Appel getekend op canvas, kat meldt dat het een appel is](images/its-an-apple.png)
+
+\--- /task ---
+
+\--- task ---
+
+- Je kunt meer code toevoegen zodat de kat sprite je alleen het resultaat vertelt als het betrouwbaarheidsniveau boven de 70 ligt.
 
 ```blocks3
 when I receive [detected v]
@@ -52,8 +52,8 @@ think [I don't know what that is] for (2) seconds
 
 \--- task ---
 
-- Click on the canvas and this time draw something completely different. See whether the cat thinks you drew an apple, a banana, or isn't sure.
+- Klik op het canvas en teken deze keer iets heel anders. Kijk of de kat denkt dat je een appel of een banaan hebt getekend, of dat hij het niet zeker weet.
 
-![X drawn on the canvas, cat reports not knowing what was drawn](images/not-confident.png)
+![X getekend op het canvas, kat meldt dat hij niet weet wat er getekend is](images/not-confident.png)
 
 \--- /task ---
