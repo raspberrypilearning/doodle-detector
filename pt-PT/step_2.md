@@ -1,4 +1,4 @@
-## Set up the project
+## Prepara o teu projeto
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -8,32 +8,32 @@
 
 \--- task ---
 
-- Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} in a web browser.
+- Vai até [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} num navegador da internet.
 
-- Click on **Get started**.
+- Clica em **Começar**.
 
-- Click on **Try it now**.
-
-\--- /task ---
-
-\--- task ---
-
-- Click on **Projects** in the menu bar at the top.
-
-- Click on the **+ Add a new project** button.
-
-- Name your project `Doodle detector` and set it to learn to recognise **images**, and store data **in your web browser**. Then click on **Create**.
-  ![Creating a project](images/create-project.png)
-
-- You should now see 'Doodle detector' in the projects list. Click on the project.
-  ![Project list with doodle detector listed](images/projects-list.png)
+- Clica em Experimentar agora\*\*.
 
 \--- /task ---
 
 \--- task ---
 
-- Click on the **Train** button.
-  ![Project main menu with arrow pointing to Train button](images/project-train.png)
+- Clica em **Projetos** na parte superior da barra do menu.
+
+- Clica no botão **+ Adicionar um novo projeto**.
+
+- Dá ao teu projeto o nome `Detetor de rabiscos` e configura-o para aprender a reconhecer **imagens** e armazenar dados **no teu navegador de internet**. E clica em **Criar**.
+  ![Criar um projeto](images/create-project.png)
+
+- Deves agora ver 'Detetor de rabiscos' na lista de projetos. Clica no projeto.
+  ![Lista de projetos com Detetor de rabiscos listada.](images/projects-list.png)
+
+\--- /task ---
+
+\--- task ---
+
+- Clica no botão **Treinar**.
+  ![Menu principal do projeto com uma seta a apontar para o botão Treinar.](images/project-train.png)
 
 \--- /task ---
 
