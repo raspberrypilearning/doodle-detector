@@ -4,13 +4,13 @@
 
 \--- task ---
 
-**More drawings**: Go back to your model and add another label for a different item, e.g. "lemon". Provide eight examples and retrain your model so that it recognises a third type of drawing.
+**Більше малюнків**: Повернись до своєї моделі та додай ще одну мітку для іншого елемента, наприклад, «лимон». Наведи вісім прикладів та навчи свою модель розпізнавати третій тип малюнку.
 
 \--- /task ---
 
 \--- task ---
 
-**Different sprite**: Change the cat sprite to a different sprite. You could add different phrases or animate your sprite depending on what was drawn.
+**Інший спрайт**: Зміни спрайт кота на інший спрайт. Ти можеш додавати різні фрази або анімувати спрайт залежно від того, що намальовано.
 
 \--- /task ---
 
