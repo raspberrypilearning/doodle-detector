@@ -12,7 +12,7 @@
 
 - Klik op **Begin**
 
-- Klik op 'Probeer nu\*\*.
+- Klik op **Probeer nu**.
 
 \--- /task ---
 
@@ -23,7 +23,7 @@
 - Klik op de knop **+ Voeg een nieuw project toe**.
 
 - Geef je project de naam `Doodle detector` en stel het in om **afbeeldingen** te herkennen en gegevens **in je webbrowser** op te slaan. Klik vervolgens op **Creëer**.
-  ![Een project maken](images/create-project-annotated.png)
+  ![Een project maken](images/create-project.png)
 
 - Je zou nu 'Doodle detector' in de lijst met projecten moeten zien. Klik op dit project.
   ![Projectlijst met doodle detector vermeld](images/projects-list.png)
@@ -33,7 +33,7 @@
 \--- task ---
 
 - Klik op de knop **Train**.
-  ![Project hoofdmenu met een pijl naar de Train-knop](images/project-make-annotated.png)
+  ![Project hoofdmenu met een pijl naar de Train-knop](images/project-train.png)
 
 \--- /task ---
 
