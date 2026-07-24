@@ -12,15 +12,15 @@ Agora que o teu modelo consegue distinguir entre desenhos, podes usá-lo num pro
 
 - Clica no link **< Voltar para o projeto**.
 
-- Clica em **Fazer**.
+- Clica em **Criar**.
 
 - Clica em **Scratch 3**.
 
-- Clica em **Abrir no Scratch 3**.
+- Clica em **Abre no Scratch 3**.
 
 \--- /task ---
 
-Machine learning for Kids acrescentou alguns blocos especiais ao Scratch para permitir que utilizes o modelo que acabaste de treinar. Vais encontrar os blocos na última parte da lista.
+Machine learning for Kids acrescentou alguns blocos especiais ao Scratch para permitir que utilizes o modelo que acabaste de treinar. Encontra-os na última parte da lista de blocos.
 
 ![Novos blocos denominados 'Detetor de Rabiscos' aparecem no menu em Imagens](images/new-blocks.png)
 
@@ -39,7 +39,7 @@ Machine learning for Kids acrescentou alguns blocos especiais ao Scratch para pe
 
 \--- task ---
 
-- Clica no **separador Código** do ator tela e crie duas **variáveis** chamadas `resultado` e `confiança`.
+- Clica no **separador Código** do ator tela e cria duas **variáveis** chamadas "resultado" e "confiança".
 
 ![Cria duas novas variáveis denominadas confiança e resultado](images/create-variable.png)
 
@@ -47,9 +47,9 @@ Machine learning for Kids acrescentou alguns blocos especiais ao Scratch para pe
 
 \--- task ---
 
-- Arrasta os blocos corretos para definir o valor destas variáveis quando a tecla de espaço é pressionada. Cria uma **mensagem** chamada `detetada` e transmite-a assim que as variáveis estiverem definidas.
+- Arrasta os blocos corretos para definir o valor destas variáveis quando a tecla de espaço é pressionada. Cria uma **mensagem** chamada "detetada" e transmite-a assim que as variáveis estiverem definidas.
 
-![Código de rascunho: Quando a tecla de espaço é pressionada, define resultado para reconhecer a categoria da imagem (imagem do traje), define a confiança para reconhecer confiança da imagem (imagem do traje), mensagem detetada](images/canvas-sprite.png)
+![Código Scratch: Quando a tecla de espaço é pressionada, define resultado para reconhecer a categoria da imagem (imagem do traje), define a confiança para reconhecer confiança da imagem (imagem do traje), mensagem detetada](images/canvas-sprite.png)
 
 \--- /task ---
 
