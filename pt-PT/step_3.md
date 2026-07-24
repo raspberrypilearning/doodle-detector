@@ -10,7 +10,7 @@ Vai desenhar duas imagens diferentes várias vezes. Isto irá ensinar o teu mode
 
 \--- task ---
 
-- Clica em **+ Adicionar um novo rótulo** no canto superior direito do ecrã e adiciona um rótulo chamado `banana`.
+- Clica em **+ Adicionar um novo rótulo** no canto superior direito do ecrã e adiciona um rótulo chamado "banana".
 
 \--- /task ---
 
@@ -22,7 +22,7 @@ Vai desenhar duas imagens diferentes várias vezes. Isto irá ensinar o teu mode
 
 \--- task ---
 
-- Desenhe uma banana na caixa.
+- Desenha uma banana na caixa.
 
 ![Uma imagem desenhada à mão de uma banana](images/draw-banana.png)
 
@@ -39,15 +39,15 @@ Vai desenhar duas imagens diferentes várias vezes. Isto irá ensinar o teu mode
 
 \--- task ---
 
-- Clica em **+ Adicionar um novo rótulo** no canto superior direito do ecrã e adiciona um rótulo chamado `maçã`.
+- Clica em **+ Adicionar um novo rótulo** no canto superior direito do ecrã e adiciona um rótulo chamado "maçã".
 
 \--- /task ---
 
 \--- task ---
 
-- Clica em **Desenhar** dentro da caixa para o novo rótulo `maçã` e desenha uma maçã.
+- Clica em **Desenhar** dentro da caixa para o novo rótulo "maçã" e desenha uma maçã.
 
-- Repite até teres desenhado **pelo menos oito exemplos** de maçãs.
+- Repete até teres desenhado **pelo menos oito exemplos** de maçãs.
 
 \--- /task ---
 
