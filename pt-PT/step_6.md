@@ -1,4 +1,4 @@
-## O que é que era?
+## O que era?
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -30,7 +30,7 @@ think (join [I predict it's a...] (result)) for (2) seconds
 
 \--- task ---
 
-- Utiliza o pincel para desenhar uma maçã grande. Quando terminar, pressiona a barra de espaço e vê o que o gato prevê teres desenhado.
+- Utiliza o pincel para desenhar uma maçã grande. Quando terminares, pressiona a barra de espaço e vê o que o gato prevê teres desenhado.
 
 ![Maçã desenhada na tela, gato indica que é uma maçã](images/its-an-apple.png)
 
@@ -52,7 +52,7 @@ think [I don't know what that is] for (2) seconds
 
 \--- task ---
 
-- Clica na tela e desta vez desenha algo completamente diferente. Veja se o gato pensa teres desenhado uma maçã, uma banana ou não tem a certeza.
+- Clica na tela e desta vez desenha algo completamente diferente. Vê se o gato pensa teres desenhado uma maçã, uma banana ou não tem a certeza.
 
 ![X desenhado na tela, o gato diz não saber o que foi desenhado](images/not-confident.png)
 
