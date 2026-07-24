@@ -4,12 +4,12 @@ Vai a rpf.io/ml4k e clica em "Experimenta agora".
 
 2
 00:00:10,560 --> 00:00:13,400
-Acrescenta um novo projeto chamado 'Detetor de Rabiscos'.
+Acrescenta um novo projeto chamado "Detetor de Rabiscos".
 
 3
 00:00:13,400 --> 00:00:19,960
-Seleciona 'reconhecer imagens' e define
-o armazenamento como 'No teu navegador de internet'.
+Seleciona "reconhecer imagens" e define
+o armazenamento como "No teu navegador web".
 
 4
 00:00:19,960 --> 00:00:29,600
