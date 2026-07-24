@@ -12,7 +12,7 @@
 
 - Clica em **Começar**.
 
-- Clica em Experimentar agora\*\*.
+- Clica em **Experimenta agora**.
 
 \--- /task ---
 
@@ -22,10 +22,10 @@
 
 - Clica no botão **+ Adicionar um novo projeto**.
 
-- Dá ao teu projeto o nome `Detetor de rabiscos` e configura-o para aprender a reconhecer **imagens** e armazenar dados **no teu navegador de internet**. E clica em **Criar**.
+- Dá ao teu projeto o nome "Detetor de rabiscos" e configura-o para aprender a reconhecer **imagens** e armazenar dados **no teu navegador web**. E clica em **Criar**.
   ![Criar um projeto](images/create-project.png)
 
-- Deves agora ver 'Detetor de rabiscos' na lista de projetos. Clica no projeto.
+- Deves agora ver "Detetor de rabiscos" na lista de projetos. Clica no projeto.
   ![Lista de projetos com Detetor de rabiscos listada.](images/projects-list.png)
 
 \--- /task ---
