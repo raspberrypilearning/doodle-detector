@@ -1,0 +1,16 @@
+1
+00:00:04,120 --> 00:00:10,560
+rpf.io/ml4k adresine gidin ve 'Şimdi dene'ye tıklayın.
+
+2
+00:00:10,560 --> 00:00:13,400
+'Çizim dedektörü' adında yeni bir proje ekleyin.
+
+3
+00:00:13,400 --> 00:00:19,960
+'Görüntüleri tanıma'yı seçin ve depolama yerini  'Web tarayıcınızda' olarak ayarlayın.
+
+4
+00:00:19,960 --> 00:00:29,600
+Proje adına tıklayın, ardından 'Eğit'e tıklayın.
+

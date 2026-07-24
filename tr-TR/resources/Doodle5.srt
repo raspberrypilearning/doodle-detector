@@ -1,0 +1,38 @@
+1
+00:00:04,120 --> 00:00:08,000
+Kedi simgesine geri tıklayın ve 
+biraz daha kod gireceğiz.
+
+2
+00:00:08,000 --> 00:00:14,720
+Bu sefer kod, kediye sonuçları göstermesini  söylüyor.
+
+3
+00:00:14,720 --> 00:00:16,880
+Bakalım işe yarayacak mı?
+
+4
+00:00:16,880 --> 00:00:21,080
+Tuvaldeki karakter resmini seçin ve kostümlere gidin.
+
+5
+00:00:21,080 --> 00:00:28,800
+Siyah bir fırça seçerek resim çizin.
+
+6
+00:00:28,800 --> 00:00:31,240
+Sonuçları görmek için boşluk tuşuna basın.
+
+7
+00:00:31,240 --> 00:00:36,040
+Bir muz da deneyin!
+
+8
+00:00:36,040 --> 00:00:49,480
+Kediye geri dönün ve modelin tahminine  
+ne kadar güvendiğini kontrol etmek için biraz kod ekleyin.
+
+9
+00:00:49,480 --> 00:00:59,240
+Şimdi elma ya da muz olmayan bir şey çizin.
+
