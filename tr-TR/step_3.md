@@ -8,19 +8,19 @@
 
 Birkaç kez iki farklı resim çizeceksiniz. Bu, makine öğrenmesi modelinize çizeceğiniz iki şey arasındaki farkı ayırt etmeyi öğretecektir. Biz muz ve elma seçtik, ancak isterseniz başka şeyler de çizebilirsiniz.
 
-\--- task ---
+--- task ---
 
 - Ekranın sağ üst köşesindeki **+ Yeni etiket ekle** seçeneğine tıklayın ve `muz` adında bir etiket ekleyin.
 
-\--- /task ---
+--- /task ---
 
-\--- task ---
+--- task ---
 
 - **muz** içindeki **Çizim** düğmesine tıklayın.
 
-\--- /task ---
+--- /task ---
 
-\--- task ---
+--- task ---
 
 - Kutunun içine bir muz resmi çizin.
 
@@ -28,27 +28,27 @@ Birkaç kez iki farklı resim çizeceksiniz. Bu, makine öğrenmesi modelinize �
 
 - Çiziminizi kaydetmek için **Ekle** düğmesine tıklayın.
 
-\--- /task ---
+--- /task ---
 
-\--- task ---
+--- task ---
 
 - **En az sekiz** muz örneği elde edene kadar bu adımları tekrarlayın. Çeşitlilik sağlamak için onları farklı şekillerde çizmeyi deneyin.
   ![Elle çizilmiş 8 temel muz örneğiyle dolu kova](images/8-banana.png)
 
-\--- /task ---
+--- /task ---
 
-\--- task ---
+--- task ---
 
 - Ekranın sağ üst köşesindeki **+ Yeni etiket ekle** seçeneğine tıklayın ve `elma` adında bir etiket ekleyin.
 
-\--- /task ---
+--- /task ---
 
-\--- task ---
+--- task ---
 
 - Yeni `elma` etiketi için kutunun içindeki **Çiz** seçeneğine tıklayın ve bir elma resmi çizin.
 
 - **En az sekiz** elma resmi çizene kadar işlemi tekrarlayın.
 
-\--- /task ---
+--- /task ---
 
 

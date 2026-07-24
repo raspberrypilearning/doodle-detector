@@ -6,7 +6,7 @@
   </div>
 </html>
 
-\--- task ---
+--- task ---
 
 - Bir web tarayıcısında [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} adresine gidin.
 
@@ -14,9 +14,9 @@
 
 - **Şimdi dene**ye tıklayın.
 
-\--- /task ---
+--- /task ---
 
-\--- task ---
+--- task ---
 
 - Üstteki menü çubuğunda **Projeler**'e tıklayın.
 
@@ -28,14 +28,14 @@
 - Artık projeler listesinde 'Karalama dedektörü'nü görmelisiniz. Projeye tıklayın.
   ![Karalama dedektörü içeren proje listesi](images/projects-list.png)
 
-\--- /task ---
+--- /task ---
 
-\--- task ---
+--- task ---
 
 - **Eğit** düğmesine tıklayın.
   ![Proje ana menüsü, Eğit düğmesine işaret eden ok ile](images/project-train.png)
 
-\--- /task ---
+--- /task ---
 
 
 

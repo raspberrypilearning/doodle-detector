@@ -8,7 +8,7 @@
 
 Kedi karakteri, çizdiğiniz şeyin ne olduğunu tahmin ederek size haber verecektir.
 
-\--- task ---
+--- task ---
 
 - Kedi karakterine tıklayın. Kedinin çizdiğiniz şeyi tahmin etmesini sağlayacak bir kod ekleyin.
 
@@ -17,26 +17,26 @@ when I receive [detected v]
 think (join [I predict it's a...] (result)) for (2) seconds
 ```
 
-\--- /task ---
+--- /task ---
 
-\--- task ---
+--- task ---
 
 - Tuval karakterine tıklayın, ardından **kostümler sekmesi**ne tıklayın.
 
 - **Boya fırçası** aracını seçin ve **dolgu** rengini siyaha değiştirin.
   ![Boya fırçası aracı seçili ve siyah dolgu rengi](images/black-brush.png)
 
-\--- /task ---
+--- /task ---
 
-\--- task ---
+--- task ---
 
 - Boya fırçasını kullanarak büyük bir elma çizin. İşiniz bittiğinde boşluk tuşuna basın ve kedinin ne çizdiğinizi tahmin ettiğini görün.
 
 ![Tuval üzerine çizilmiş elma, kedi bunun elma olduğunu söylüyor](images/its-an-apple.png)
 
-\--- /task ---
+--- /task ---
 
-\--- task ---
+--- task ---
 
 - Sadece güven seviyesi %70'in üzerinde olduğunda kedi karakterinin size sonucu bildirmesini sağlayacak şekilde daha fazla kod ekleyebilirsiniz.
 
@@ -48,12 +48,12 @@ else
 think [I don't know what that is] for (2) seconds
 ```
 
-\--- /task ---
+--- /task ---
 
-\--- task ---
+--- task ---
 
 - Tuvalin üzerine tıklayın ve bu sefer tamamen farklı bir şey çizin. Bakalım kedi elma mı, muz mu çizdiğinizi düşünüyor, yoksa emin değil mi.
 
 ![Tuval üzerine X çizildi, kedi ne çizildiğini bilmediğini söylüyor](images/not-confident.png)
 
-\--- /task ---
+--- /task ---
