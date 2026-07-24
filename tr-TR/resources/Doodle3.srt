@@ -1,0 +1,12 @@
+1
+00:00:04,680 --> 00:00:09,200
+'Geri'ye tıklayın, ardından 'Öğren ve Test Et'e tıklayın.
+
+2
+00:00:09,200 --> 00:00:17,480
+Modelinizi eğitin, ardından modelin elma  çizdiğinizi tahmin edip etmediğini test edin.
+
+3
+00:00:17,480 --> 00:00:26,040
+Bir muzu da deneyin.
+

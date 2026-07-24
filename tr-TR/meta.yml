@@ -1,0 +1,23 @@
+---
+title: Karalama dedektörü
+hero_image: images/banner.png
+description: Bilgisayarı çizdiklerinizi tanıması için eğitin
+version: 1
+listed: true
+copyedit: false
+last_tested: "2024-06-25"
+steps:
+  - title: Ne yapacaksınız
+  - title: Projeyi kurun
+    completion:
+    - engaged
+  - title: Bazı örnekler çizin
+  - title: Modelin eğitin
+  - title: Bir tuval oluşturun
+  - title: Neydi o?
+    completion:
+    - internal
+  - title: Meydan Okuma
+    challenge: true
+    completion:
+    - external
