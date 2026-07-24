@@ -1,0 +1,20 @@
+1
+00:00:03,633 --> 00:00:06,133
+Şimdi 'Geri'ye tıklayın ve bu sefer 'Oluştur'u seçin.
+
+2
+00:00:06,533 --> 00:00:08,799
+Bu modeli Scratch'te kullanacaksınız.
+
+3
+00:00:10,898 --> 00:00:14,598
+Yeni bir karakter çizin ve ona 'Tuval' adını verin.
+
+4
+00:00:17,530 --> 00:00:23,363
+Önce onu bitmap'e dönüştürün, ardından kod sekmesine tıklayın ve kod bloklarını sürükleyip bırakın.
+
+5
+00:00:24,396 --> 00:00:28,961
+Bu kod, modele boşluk tuşuna basıldığında ne çizileceğini tahmin etmesini söyler.
+
