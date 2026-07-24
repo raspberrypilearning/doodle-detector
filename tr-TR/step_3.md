@@ -33,7 +33,7 @@ Birkaç kez iki farklı resim çizeceksiniz. Bu, makine öğrenmesi modelinize �
 --- task ---
 
 - **En az sekiz** muz örneği elde edene kadar bu adımları tekrarlayın. Çeşitlilik sağlamak için onları farklı şekillerde çizmeyi deneyin.
-  ![Elle çizilmiş 8 temel muz örneğiyle dolu kova](images/8-banana.png)
+![Elle çizilmiş 8 temel muz örneğiyle dolu kova](images/8-banana.png)
 
 --- /task ---
 

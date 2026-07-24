@@ -27,7 +27,7 @@ Modeliniz artık çizimler arasında ayrım yapabildiğine göre, onu bir Scratc
 --- task ---
 
 - 'Boyama' seçeneğini kullanarak yeni bir karakter oluşturun. Karakterinizin adını 'Tuval' olarak belirleyin.
-  ![Boyama aracını kullanarak yeni bir karakter ekleyin ve adını tuval olarak değiştirin](images/new-sprite.png)
+![Boyama aracını kullanarak yeni bir karakter ekleyin ve adını tuval olarak değiştirin](images/new-sprite.png)
 
 --- /task ---
 
@@ -47,9 +47,9 @@ Modeliniz artık çizimler arasında ayrım yapabildiğine göre, onu bir Scratc
 
 --- task ---
 
-- Boşluk tuşuna basıldığında bu değişkenlerin değerini ayarlamak için doğru blokları sürükleyin. `tanındı` adında bir **yayın** oluşturun ve değişkenler ayarlandıktan sonra yayınlayın.
+- Boşluk tuşuna basıldığında bu değişkenlerin değerini ayarlamak için doğru blokları sürükleyin. `algılandı` adında bir **yayın** oluşturun ve değişkenler ayarlandıktan sonra yayınlayın.
 
-![Scratch kodu: Boşluk tuşuna basıldığında, sonucu tanınan görüntü (kostüm görüntüsü) etiketine, güven skorunu tanınan görüntü (kostüm görüntüsü) güven skoruna ayarla, tanındı şeklinde yayınla](images/canvas-sprite.png)
+![Scratch kodu: Boşluk tuşuna basıldığında, sonucu tanınan görüntü (kostüm görüntüsü) etiketine, güven skorunu tanınan görüntü (kostüm görüntüsü) güven skoruna ayarla, algılandı şeklinde yayınla](images/canvas-sprite.png)
 
 --- /task ---
 

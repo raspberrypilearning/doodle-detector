@@ -12,7 +12,7 @@
 
 - **Başla** seçeneğine tıklayın.
 
-- **Şimdi dene**ye tıklayın.
+- **Şimdi dene**'ye tıklayın.
 
 --- /task ---
 
@@ -23,17 +23,17 @@
 - **+ Yeni proje ekle** düğmesine tıklayın.
 
 - Projenize `Karalama dedektörü` adını verin ve **görüntüleri** tanımayı öğrenmesi ve verileri **web tarayıcınızda** saklaması için ayarlayın. Ardından **Oluştur**'a tıklayın.
-  ![Proje oluşturuluyor](images/create-project.png)
+![Proje oluşturuluyor](images/create-project.png)
 
 - Artık projeler listesinde 'Karalama dedektörü'nü görmelisiniz. Projeye tıklayın.
-  ![Karalama dedektörü içeren proje listesi](images/projects-list.png)
+![Karalama dedektörü içeren proje listesi](images/projects-list.png)
 
 --- /task ---
 
 --- task ---
 
 - **Eğit** düğmesine tıklayın.
-  ![Proje ana menüsü, Eğit düğmesine işaret eden ok ile](images/project-train.png)
+![Proje ana menüsü, Eğit düğmesine işaret eden ok ile](images/project-train.png)
 
 --- /task ---
 

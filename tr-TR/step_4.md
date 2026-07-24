@@ -15,7 +15,7 @@
 - **Öğren ve Test Et** seçeneğine tıklayın.
 
 - **Yeni makine öğrenimi modeli eğit** etiketli butona tıklayın. Bu işlem birkaç dakika sürebilir.
-  !['Yeni makine öğrenimi modeli eğit' yazan bir düğmeye işaret eden ok.](images/train-new-model.png)
+!['Yeni makine öğrenimi modeli eğit' yazan bir düğmeye işaret eden ok.](images/train-new-model.png)
 
 --- /task ---
 

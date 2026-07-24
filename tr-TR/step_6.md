@@ -13,8 +13,8 @@ Kedi karakteri, çizdiğiniz şeyin ne olduğunu tahmin ederek size haber verece
 - Kedi karakterine tıklayın. Kedinin çizdiğiniz şeyi tahmin etmesini sağlayacak bir kod ekleyin.
 
 ```blocks3
-when I receive [detected v]
-think (join [I predict it's a...] (result)) for (2) seconds
+when I receive [algılandı v]
+think (join [Tahminimce bu bir...] (sonuç)) for (2) seconds
 ```
 
 --- /task ---
@@ -24,7 +24,7 @@ think (join [I predict it's a...] (result)) for (2) seconds
 - Tuval karakterine tıklayın, ardından **kostümler sekmesi**ne tıklayın.
 
 - **Boya fırçası** aracını seçin ve **dolgu** rengini siyaha değiştirin.
-  ![Boya fırçası aracı seçili ve siyah dolgu rengi](images/black-brush.png)
+![Boya fırçası aracı seçili ve siyah dolgu rengi](images/black-brush.png)
 
 --- /task ---
 
@@ -41,11 +41,11 @@ think (join [I predict it's a...] (result)) for (2) seconds
 - Sadece güven seviyesi %70'in üzerinde olduğunda kedi karakterinin size sonucu bildirmesini sağlayacak şekilde daha fazla kod ekleyebilirsiniz.
 
 ```blocks3
-when I receive [detected v]
-if <(confidence)>(70)> then
-think (join [I predict it's a...] (result)) for (2) seconds
+when I receive [algılandı v]
+if <(güven skoru)>(70)> then
+think (join [Tahminimce bu bir...] (sonuç)) for (2) seconds
 else
-think [I don't know what that is] for (2) seconds
+think [Onun ne olduğunu bilmiyorum] for (2) seconds
 ```
 
 --- /task ---

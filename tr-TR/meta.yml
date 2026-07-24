@@ -10,14 +10,14 @@ steps:
   - title: Ne yapacaksınız
   - title: Projeyi kurun
     completion:
-      - engaged
+    - engaged
   - title: Bazı örnekler çizin
   - title: Modelin eğitin
   - title: Bir tuval oluşturun
   - title: Neydi o?
     completion:
-      - internal
+    - internal
   - title: Meydan Okuma
     challenge: true
     completion:
-      - external
+    - external
