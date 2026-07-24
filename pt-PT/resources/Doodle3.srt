@@ -4,8 +4,8 @@ Clica em "Voltar" e depois clica em "Aprender & Testar".
 
 2
 00:00:09,200 --> 00:00:17,480
-Treine o teu modelo e testa se
-prevê que desenhas-te uma maçã.
+Treina o teu modelo e testa se
+prevê que desenhaste uma maçã.
 
 3
 00:00:17,480 --> 00:00:26,040
