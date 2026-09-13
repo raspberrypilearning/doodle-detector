@@ -8,19 +8,19 @@
 
 Je gaat twee verschillende afbeeldingen meerdere keren tekenen. Hiermee leert jouw machine learning-model het verschil te herkennen tussen de twee dingen die jij tekent. Wij hebben een banaan en een appel gekozen, maar je kunt natuurlijk ook andere dingen tekenen.
 
---- task ---
+\--- task ---
 
 - Klik rechtsboven in het scherm op **+ Voeg een nieuw label toe** en voeg een label toe met de naam `banaan`.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Klik op de **Teken**-knop in **banaan**.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Teken een banaan in het vakje.
 
@@ -28,27 +28,27 @@ Je gaat twee verschillende afbeeldingen meerdere keren tekenen. Hiermee leert jo
 
 - Klik op de knop **Voeg Toe** om jouw tekening op te slaan.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Herhaal deze stappen totdat je **ten minste acht voorbeelden** van bananen hebt. Probeer ze op verschillende manieren te tekenen, zodat er variatie ontstaat.
   ![Container gevuld met 8 voorbeelden van eenvoudige met de hand getekende bananen](images/8-banana.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Klik rechtsboven in het scherm op **+ Voeg een nieuw label toe** en voeg een label toe met de naam `appel`.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Klik op **Teken** in het vak voor het nieuwe `appel`-label en teken een plaatje van een appel.
 
 - Herhaal totdat je **ten minste acht voorbeelden** van appels hebt getekend.
 
---- /task ---
+\--- /task ---
 
 
