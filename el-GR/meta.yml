@@ -1,0 +1,22 @@
+title: Doodle detector
+hero_image: images/banner.png
+description: Train the computer to recognise what you have drawn
+version: 1
+listed: true
+copyedit: false
+last_tested: "2024-06-25"
+steps:
+  - title: Τι θα φτιάξεις
+  - title: Ρύθμιση του έργου
+    completion:
+    - engaged
+  - title: Draw some examples
+  - title: Εκπαίδευσε το μοντέλο
+  - title: Create a canvas
+  - title: What was it?
+    completion:
+    - internal
+  - title: Πρόκληση
+    challenge: true
+    completion:
+    - external

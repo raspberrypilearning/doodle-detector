@@ -8,33 +8,33 @@
 
 İhtiyacınız olan örnekleri topladınız, şimdi bu örnekleri kullanarak makine öğrenimi modelinizi eğiteceksiniz.
 
---- task ---
+\--- task ---
 
 - Sol üst köşedeki **< Projeye geri dön** seçeneğine tıklayın.
 
 - **Öğren ve Test Et** seçeneğine tıklayın.
 
 - **Yeni makine öğrenimi modeli eğit** etiketli butona tıklayın. Bu işlem birkaç dakika sürebilir.
-!['Yeni makine öğrenimi modeli eğit' yazan bir düğmeye işaret eden ok.](images/train-new-model.png)
+  !['Yeni makine öğrenimi modeli eğit' yazan bir düğmeye işaret eden ok.](images/train-new-model.png)
 
---- /task ---
+\--- /task ---
 
 Eğitim tamamlandıktan sonra, modelinizin her nesne türünün çizimlerini ne kadar iyi tanıdığını test edebilirsiniz.
 
---- task ---
+\--- task ---
 
 - **Çizerek test et** düğmesine tıklayın, ardından bir elma resmi çizin.
 
 Makine öğrenme modeliniz, çizdiğiniz şey için tahminini gösterecektir.
 ![Çizerek test et düğmesini gösteren ok](images/test-your-model.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Modelin muz çizimini de tanıyıp tanımadığını test edin.
 
---- /task ---
+\--- /task ---
 
 Modelin çalışma şeklinden memnun değilseniz, **Eğit** sayfasına geri dönün, daha fazla örnek ekleyin ve modelinizi tekrar eğitin.
 
