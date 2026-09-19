@@ -6,7 +6,7 @@
   </div>
 </html>
 
---- task ---
+\--- task ---
 
 - Ga naar [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} in een webbrowser.
 
@@ -14,9 +14,9 @@
 
 - Klik op **Probeer nu**.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Klik op **Projecten** in de menubalk bovenaan.
 
@@ -28,14 +28,14 @@
 - Je zou nu 'Doodle detector' in de lijst met projecten moeten zien. Klik op dit project.
   ![Projectlijst met doodle detector vermeld](images/projects-list.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Klik op de knop **Train**.
   ![Project hoofdmenu met een pijl naar de Train-knop](images/project-train.png)
 
---- /task ---
+\--- /task ---
 
 
 

@@ -1,0 +1,40 @@
+1
+00:00:04,120 --> 00:00:08,000
+Clica novamente no ator gato e
+vamos acrescentar mais algum código.
+
+2
+00:00:08,000 --> 00:00:14,720
+Desta vez, o código diz ao gato
+para apresentar os resultados.
+
+3
+00:00:14,720 --> 00:00:16,880
+Vamos ver se funciona.
+
+4
+00:00:16,880 --> 00:00:21,080
+Seleciona o ator tela e vai aos trajes.
+
+5
+00:00:21,080 --> 00:00:28,800
+Seleciona um pincel preto e desenha uma imagem.
+
+6
+00:00:28,800 --> 00:00:31,240
+Pressiona a barra de espaço para ver os resultados.
+
+7
+00:00:31,240 --> 00:00:36,040
+Testa também com uma banana!
+
+8
+00:00:36,040 --> 00:00:49,480
+Clica novamente no gato e acrescenta código para verificar
+a confiança que o modelo tem na sua previsão.
+
+9
+00:00:49,480 --> 00:00:59,240
+Agora, desenha alguma coisa que não
+uma maçã ou uma banana.
+
