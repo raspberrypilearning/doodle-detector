@@ -1,0 +1,22 @@
+title: Detetor de rabiscos
+hero_image: images/banner.png
+description: Treina o computador para reconhecer o que estás a desenhar
+version: 1
+listed: true
+copyedit: false
+last_tested: "2024-06-25"
+steps:
+  - title: O que vais fazer
+  - title: Prepara o teu projeto
+    completion:
+    - engaged
+  - title: Desenha alguns exemplos
+  - title: Treina o modelo
+  - title: Cria uma tela
+  - title: O que era?
+    completion:
+    - internal
+  - title: Desafio
+    challenge: true
+    completion:
+    - externo
