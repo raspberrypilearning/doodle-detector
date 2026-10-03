@@ -1,0 +1,9 @@
+result
+
+εμπιστοσύνη
+
+detected
+
+I predict it's a ...
+
+I don't know what that is
