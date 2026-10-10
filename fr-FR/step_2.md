@@ -6,7 +6,7 @@
   </div>
 </html>
 
---- task ---
+\--- task ---
 
 - Va sur [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} dans un navigateur web.
 
@@ -14,28 +14,28 @@
 
 - Clique sur **Essayer maintenant**.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Clique sur **Projets** dans la barre de menus en haut de la page.
 
 - Clique sur le bouton **+ Ajouter un nouveau projet**.
 
 - Nomme ton projet « Détecteur de gribouillages » et définis-le pour apprendre à reconnaître les **images**, et stocker les données **dans ton navigateur web**. Puis clique sur **Créer**.
-![Création d'un projet](images/create-project.png)
+  ![Création d'un projet](images/create-project.png)
 
 - Tu devrais maintenant voir « Détecteur de gribouillages » dans la liste des projets. Clique sur le projet.
-![Liste de projets avec Détecteur de gribouillages répertoriée.](images/projects-list.png)
+  ![Liste de projets avec Détecteur de gribouillages répertoriée.](images/projects-list.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Clique sur le bouton **Entraîner**.
-![Menu principal du projet avec une flèche pointant vers le bouton Entraîner.](images/project-train.png)
+  ![Menu principal du projet avec une flèche pointant vers le bouton Entraîner.](images/project-train.png)
 
---- /task ---
+\--- /task ---
 
 
 
