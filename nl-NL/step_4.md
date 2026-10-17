@@ -8,7 +8,7 @@
 
 Je hebt de voorbeelden verzameld die je nodig hebt, nu ga je deze gebruiken om jouw machine learning-model te trainen.
 
---- task ---
+\--- task ---
 
 - Klik op **Terug naar project** in de linkerbovenhoek.
 
@@ -17,24 +17,24 @@ Je hebt de voorbeelden verzameld die je nodig hebt, nu ga je deze gebruiken om j
 - Klik op de knop met het label **Train nieuw machine learning model**. Dit kan enkele minuten duren.
   ![Pijl die naar de knop wijst met de tekst Train nieuw machine learning model](images/train-new-model.png)
 
---- /task ---
+\--- /task ---
 
 Zodra de training is voltooid, kun je testen hoe goed jouw model tekeningen van elk type object herkent.
 
---- task ---
+\--- task ---
 
 - Klik op de knop **Test door te tekenen** en teken vervolgens een appel.
 
 Je machine learning-model zal de voorspelling tonen van wat je hebt getekend.
 ![Pijl wijst naar de Test door te tekenen-knop](images/test-your-model.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Test of het model ook een tekening van een banaan herkent.
 
---- /task ---
+\--- /task ---
 
 Als je niet tevreden bent met hoe het model werkt, ga dan terug naar de **Train** pagina en voeg meer voorbeelden toe, en train daarna je model opnieuw.
 
