@@ -1,0 +1,20 @@
+1
+00:00:03,633 --> 00:00:06,133
+Agora clica em "Voltar" e desta vez escolhe "Criar".
+
+2
+00:00:06,533 --> 00:00:08,799
+Vamos usar o modelo no Scratch.
+
+3
+00:00:10,898 --> 00:00:14,598
+Pinta um novo ator e chama-o "Tela".
+
+4
+00:00:17,530 --> 00:00:23,363
+Converte-o para bitmap e clica no separador de código e arrasta os blocos de código.
+
+5
+00:00:24,396 --> 00:00:28,961
+Este código indica ao modelo para prever o que foi desenhado quando a tecla de espaço foi pressionada.
+
