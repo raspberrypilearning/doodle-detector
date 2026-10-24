@@ -1,0 +1,10 @@
+1
+00:00:04,400 --> 00:00:16,000
+Add a new label called banana, and 
+then draw eight different bananas.
+
+2
+00:00:16,000 --> 00:00:29,960
+Add another label for apple, 
+and draw eight apples too.
+
