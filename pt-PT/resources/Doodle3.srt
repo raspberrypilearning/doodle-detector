@@ -1,0 +1,13 @@
+1
+00:00:04,680 --> 00:00:09,200
+Clica em "Voltar" e depois clica em "Aprender & Testar".
+
+2
+00:00:09,200 --> 00:00:17,480
+Treina o teu modelo e testa se
+prevê que desenhaste uma maçã.
+
+3
+00:00:17,480 --> 00:00:26,040
+Testa também com uma banana.
+
