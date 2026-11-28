@@ -8,7 +8,7 @@
 
 Modeliniz artık çizimler arasında ayrım yapabildiğine göre, onu bir Scratch programında kullanabilirsiniz.
 
---- task ---
+\--- task ---
 
 - **< Projeye geri dön** bağlantısına tıklayın.
 
@@ -18,38 +18,38 @@ Modeliniz artık çizimler arasında ayrım yapabildiğine göre, onu bir Scratc
 
 - **Scratch 3'te Aç** seçeneğine tıklayın.
 
---- /task ---
+\--- /task ---
 
 Çocuklar için Makine Öğrenimi, yeni eğittiğiniz modeli kullanmanıza olanak sağlamak için Scratch'e bazı özel bloklar ekledi. Onları blok listesinin en altında bulabilirsiniz.
 
 ![Resimler menüsünde 'Karalama dedektörü' adlı yeni bloklar belirdi](images/new-blocks.png)
 
---- task ---
+\--- task ---
 
 - 'Boyama' seçeneğini kullanarak yeni bir karakter oluşturun. Karakterinizin adını 'Tuval' olarak belirleyin.
-![Boyama aracını kullanarak yeni bir karakter ekleyin ve adını tuval olarak değiştirin](images/new-sprite.png)
+  ![Boyama aracını kullanarak yeni bir karakter ekleyin ve adını tuval olarak değiştirin](images/new-sprite.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Çizim alanının altında, en altta bulunan mor **Bitmap'e dönüştür** düğmesine tıklayın.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Tuval karakteri için **Kod sekmesi**ne tıklayın ve `sonuç` ve `güven skoru` adında iki **değişken** oluşturun.
 
 ![Güven skoru ve sonuç adında iki yeni değişken oluşturun](images/create-variable.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
-- Boşluk tuşuna basıldığında bu değişkenlerin değerini ayarlamak için doğru blokları sürükleyin. `algılandı` adında bir **yayın** oluşturun ve değişkenler ayarlandıktan sonra yayınlayın.
+- Boşluk tuşuna basıldığında bu değişkenlerin değerini ayarlamak için doğru blokları sürükleyin. `tanındı` adında bir **yayın** oluşturun ve değişkenler ayarlandıktan sonra yayınlayın.
 
-![Scratch kodu: Boşluk tuşuna basıldığında, sonucu tanınan görüntü (kostüm görüntüsü) etiketine, güven skorunu tanınan görüntü (kostüm görüntüsü) güven skoruna ayarla, algılandı şeklinde yayınla](images/canvas-sprite.png)
+![Scratch kodu: Boşluk tuşuna basıldığında, sonucu tanınan görüntü (kostüm görüntüsü) etiketine, güven skorunu tanınan görüntü (kostüm görüntüsü) güven skoruna ayarla, tanındı şeklinde yayınla](images/canvas-sprite.png)
 
---- /task ---
+\--- /task ---
 

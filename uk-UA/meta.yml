@@ -1,0 +1,22 @@
+title: Дудл-детектор
+hero_image: images/banner.png
+description: Навчи комп'ютер розпізнавати те, що ти намалював
+version: 1
+listed: true
+copyedit: false
+last_tested: "2024-06-25"
+steps:
+  - title: Що ти зробиш
+  - title: Створи проєкт
+    completion:
+    - engaged
+  - title: Намалюй декілька прикладів
+  - title: Навчи модель
+  - title: Створи полотно
+  - title: Що це було?
+    completion:
+    - internal
+  - title: Додаткове завдання
+    challenge: true
+    completion:
+    - зовнішній
